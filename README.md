@@ -33,8 +33,7 @@ All metrics reflect the verified baseline of 1,000 audited customer records:
 
 The interactive cockpit provides executive leadership and retention teams with real-time drill-down capabilities across contracts, tenure groups, support packages, and billing tiers.
 
-![Telecom Customer Churn Dashboard](tableau/Customer_churn_Dashboard_overview.png)
-
+![Telecom Customer Churn Dashboard](Customer_churn_Dashboard_overview.png)
 ## Data Cleaning & Reconciliation Pipeline
 
 The raw data export contained **1,457 records** with several integrity anomalies that required rigorous reconciliation before analysis:
