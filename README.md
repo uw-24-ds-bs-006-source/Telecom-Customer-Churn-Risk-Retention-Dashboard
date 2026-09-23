@@ -36,5 +36,4 @@ The interactive cockpit provides executive leadership and retention teams with r
 ![Telecom Customer Churn Dashboard](Customer_churn_Dashboard_overview.png)
 ## Data Cleaning & Reconciliation Pipeline
 
-The raw data export contained **1,457 records** with several integrity anomalies that required rigorous reconciliation before analysis:
-dakho meri readme file achiha project k hisab sy.
+The raw data export contained **1,457 records** with several integrity anomalies that required rigorous reconciliation before analysis
