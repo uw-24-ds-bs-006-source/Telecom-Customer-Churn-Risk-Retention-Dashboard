@@ -33,10 +33,7 @@ All metrics reflect the verified baseline of 1,000 audited customer records:
 
 The interactive cockpit provides executive leadership and retention teams with real-time drill-down capabilities across contracts, tenure groups, support packages, and billing tiers.
 
-![Telecom Customer Churn Dashboard](tableau/dashboard_screenshot.png)
-
-* **Live Tableau Public Dashboard:** [View Interactive Dashboard on Tableau Public](#) *(Paste your Tableau Public link here)*
-* **Tableau Workbook File:** ["C:\Users\fatima awan\OneDrive\Documents\Desktop\Customer_Churn_Analysis\customer_churn_tableau_dashboard.twbx")
+![Telecom Customer Churn Dashboard](tableau/Customer_churn_Dashboard_overview.png)
 
 ## Data Cleaning & Reconciliation Pipeline
 
