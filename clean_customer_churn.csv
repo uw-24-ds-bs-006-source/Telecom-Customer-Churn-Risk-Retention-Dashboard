@@ -1,0 +1,1001 @@
+Customer_ID,Gender,Senior_Citizen,Partner,Dependents,Tenure_Months,Phone_Service,Multiple_Lines,Internet_Service,Online_Security,Online_Backup,Device_Protection,Tech_Support,Streaming_TV,Streaming_Movies,Contract,Paperless_Billing,Payment_Method,Monthly_Charges,Total_Charges,Churn,Data_Quality_Flag
+CUST-7000,Female,Yes,No,No,30,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",28.03,832.71,No,Clean
+CUST-7001,Female,No,Yes,Yes,58,Yes,Yes,DSL,Yes,"No internet service",Yes,No,No,No,"One year",Yes,"Bank transfer",63.80,3710.35,No,Clean
+CUST-7002,Female,No,No,Yes,2,Yes,No,DSL,No,No,Yes,Yes,"No internet service",Yes,Month-to-month,No,"Credit card",75.08,145.56,Yes,Clean
+CUST-7003,Male,No,Yes,Yes,10,Yes,Yes,"Fiber optic",No,Yes,"No internet service","No internet service",Yes,No,Month-to-month,No,"Credit card",74.95,758.92,No,Clean
+CUST-7004,Male,No,Yes,Yes,72,Yes,No,DSL,"No internet service",No,No,No,Yes,Yes,Month-to-month,Yes,"Bank transfer",63.32,4560.53,No,Clean
+CUST-7005,Male,Yes,Yes,Yes,5,Yes,"No phone service",DSL,No,No,"No internet service",Yes,No,Yes,Month-to-month,No,"Mailed check",67.64,338.02,Yes,Clean
+CUST-7006,Male,No,Yes,No,8,No,"No phone service","Fiber optic",Yes,No,No,No,Yes,Yes,Month-to-month,No,Unknown,70.44,568.18,Yes,Clean
+CUST-7007,Unknown,No,No,No,69,Yes,"No phone service",DSL,Yes,"No internet service",No,No,Yes,Yes,Month-to-month,Yes,"Mailed check",79.74,5509.48,No,Clean
+CUST-7008,Female,No,No,No,37,Yes,Yes,DSL,Yes,No,No,"No internet service",No,No,"Two year",No,"Credit card",60.16,2216.52,No,Clean
+CUST-7009,Male,Yes,Yes,No,54,Yes,No,DSL,Yes,No,No,Yes,"No internet service","No internet service",Month-to-month,No,"Credit card",59.17,3197.86,No,Clean
+CUST-7010,Male,No,No,Yes,3,Yes,Yes,"Fiber optic",No,Yes,Yes,No,No,No,"Two year",No,"Credit card",93.94,278.23,No,Clean
+CUST-7011,Male,No,No,Yes,42,Yes,Yes,DSL,No,Yes,Yes,Yes,"No internet service",Yes,Month-to-month,Yes,"Mailed check",66.62,2791.62,Yes,Clean
+CUST-7012,Male,Yes,Yes,Yes,22,Yes,No,DSL,No,Yes,"No internet service",Yes,No,"No internet service","One year",No,"Credit card",65.55,1448.07,No,Clean
+CUST-7013,Male,Yes,Yes,No,33,Yes,No,DSL,"No internet service",Yes,No,"No internet service",Yes,Yes,Month-to-month,No,"Credit card",71.64,2364.78,No,Clean
+CUST-7014,Female,Yes,No,No,37,Yes,Yes,"Fiber optic","No internet service",No,"No internet service","No internet service","No internet service",Yes,Month-to-month,No,"Credit card",93.84,3468.17,Yes,Clean
+CUST-7015,Female,No,Yes,Yes,39,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",Yes,No,Yes,"One year",No,"Credit card",95.67,3730.99,No,Clean
+CUST-7016,Female,No,Yes,No,3,Yes,Yes,DSL,Yes,Yes,Yes,"No internet service",No,No,"One year",No,"Electronic check",73.28,223.87,No,Clean
+CUST-7017,Female,No,Yes,Yes,61,Yes,Yes,"Fiber optic","No internet service","No internet service","No internet service",Yes,Yes,"No internet service","One year",Yes,"Bank transfer",91.83,5595.52,Yes,Clean
+CUST-7018,Male,No,Yes,No,58,Yes,"No phone service",DSL,No,"No internet service","No internet service",Yes,Yes,Yes,"One year",No,"Electronic check",76.79,4459.88,No,Clean
+CUST-7019,Male,No,Yes,Yes,7,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",25.78,172.39,Yes,Clean
+CUST-7020,Female,No,No,Yes,41,Yes,Yes,DSL,No,No,"No internet service",No,No,Yes,"One year",Yes,"Bank transfer",67.94,2792.75,No,Clean
+CUST-7021,Male,No,No,No,65,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",32.65,2120.36,No,Clean
+CUST-7022,Female,No,Yes,No,72,No,"No phone service",DSL,No,"No internet service",No,No,Yes,"No internet service",Month-to-month,Yes,"Credit card",48.21,3465.38,Yes,Clean
+CUST-7023,Male,No,Yes,No,25,Yes,Yes,"Fiber optic",Yes,Yes,No,No,No,No,"One year",No,"Electronic check",90.22,2260.68,Yes,Clean
+CUST-7024,Female,Yes,No,Yes,24,Yes,No,"Fiber optic","No internet service",No,No,"No internet service",No,No,"One year",No,Unknown,68.26,1639.96,No,Clean
+CUST-7025,Female,Yes,No,Yes,37,Yes,No,DSL,Yes,No,"No internet service",No,No,Yes,Month-to-month,No,"Mailed check",72.44,2682.76,No,Clean
+CUST-7026,Male,No,Yes,No,25,Yes,No,"Fiber optic","No internet service","No internet service","No internet service",No,No,"No internet service",Month-to-month,No,"Mailed check",65.91,1655.60,No,Clean
+CUST-7027,Female,No,Yes,No,51,Yes,Yes,"Fiber optic","No internet service",Yes,"No internet service",Yes,"No internet service",Yes,Month-to-month,No,"Electronic check",85.99,4389.02,Yes,Clean
+CUST-7028,Female,No,No,No,29,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",32.47,939.43,Yes,Clean
+CUST-7029,Female,No,Yes,No,43,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",33.15,1424.72,No,Clean
+CUST-7030,Male,No,Yes,No,29,Yes,No,DSL,Yes,Yes,No,"No internet service","No internet service",No,Month-to-month,No,"Credit card",72.99,2115.47,No,Clean
+CUST-7032,Male,Yes,No,Yes,37,Yes,"No phone service",DSL,Yes,No,"No internet service",Yes,No,Yes,Month-to-month,Yes,"Credit card",65.14,2408.07,Yes,Clean
+CUST-7033,Male,No,Yes,Yes,22,Yes,"No phone service",DSL,Yes,No,Yes,No,"No internet service","No internet service",Month-to-month,Yes,"Electronic check",60.97,1351.16,Yes,Clean
+CUST-7034,Female,No,No,No,70,Yes,No,"Fiber optic",No,"No internet service",Yes,Yes,Yes,No,Month-to-month,Yes,"Bank transfer",78.87,5522.80,Yes,Clean
+CUST-7035,Female,No,No,No,60,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",28.99,1733.75,Yes,Clean
+CUST-7036,Female,No,Yes,Yes,62,No,"No phone service","Fiber optic",Yes,"No internet service",No,"No internet service",Yes,No,Month-to-month,Yes,"Bank transfer",83.87,5204.77,No,Clean
+CUST-7037,Male,No,Yes,Yes,2,Yes,"No phone service","Fiber optic",No,"No internet service",No,Yes,"No internet service","No internet service",Month-to-month,Yes,"Mailed check",80.96,168.45,Yes,Clean
+CUST-7038,Female,Yes,No,No,14,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Electronic check",31.87,438.30,No,Clean
+CUST-7039,Male,No,No,No,9,Yes,No,"Fiber optic","No internet service",Yes,"No internet service",Yes,No,"No internet service",Month-to-month,No,"Credit card",80.81,719.48,Yes,Clean
+CUST-7040,Female,No,No,Yes,2,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,Yes,No,Yes,"Two year",Yes,"Mailed check",94.37,197.28,Yes,Clean
+CUST-7041,Male,No,No,Yes,49,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Bank transfer",28.31,1384.03,No,Clean
+CUST-7042,Female,No,No,Yes,39,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",34.87,1360.25,No,Clean
+CUST-7043,Male,No,Yes,Yes,28,Yes,No,DSL,No,No,No,Yes,No,"No internet service",Month-to-month,No,"Mailed check",70.65,1980.23,Yes,Clean
+CUST-7044,Female,No,No,Yes,6,Yes,Yes,"Fiber optic",No,Yes,"No internet service",Yes,No,"No internet service","Two year",Yes,"Mailed check",77.32,465.31,Yes,Clean
+CUST-7045,Female,No,No,Yes,42,Yes,"No phone service","Fiber optic",No,No,"No internet service",Yes,No,No,Month-to-month,No,"Credit card",89.95,3781.71,No,Clean
+CUST-7046,Male,No,No,No,64,Yes,Yes,DSL,"No internet service",No,"No internet service",No,"No internet service",No,"One year",Yes,"Mailed check",46.34,2965.81,No,Clean
+CUST-7047,Female,No,Yes,No,43,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Mailed check",20.00,854.44,No,Clean
+CUST-7048,Male,No,Yes,Yes,62,Yes,No,DSL,Yes,"No internet service",No,Yes,No,Yes,Month-to-month,No,"Mailed check",65.08,4031.12,No,Clean
+CUST-7049,Male,No,Yes,Yes,14,Yes,No,DSL,"No internet service","No internet service","No internet service",Yes,"No internet service","No internet service",Month-to-month,Yes,"Bank transfer",61.52,868.67,No,Clean
+CUST-7050,Female,No,Yes,Yes,61,Yes,"No phone service",DSL,Yes,"No internet service",Yes,"No internet service","No internet service",No,"Two year",Yes,"Mailed check",71.64,4362.69,No,Clean
+CUST-7051,Male,Yes,Yes,Yes,0,Yes,"No phone service",DSL,"No internet service",Yes,Yes,No,Yes,Yes,Month-to-month,Yes,"Mailed check",79.78,0.00,Yes,Clean
+CUST-7052,Female,No,No,Yes,38,Yes,Yes,"Fiber optic",Yes,"No internet service",No,"No internet service",No,"No internet service","Two year",No,"Credit card",85.43,3241.57,Yes,Clean
+CUST-7053,Female,No,Yes,No,56,Yes,"No phone service",DSL,Yes,Yes,Yes,Yes,"No internet service","No internet service",Month-to-month,Yes,"Electronic check",65.72,3682.09,Yes,Clean
+CUST-7054,Female,No,No,No,1,Yes,No,"Fiber optic","No internet service",Yes,Yes,No,"No internet service",Yes,Month-to-month,Yes,"Electronic check",86.88,85.37,Yes,Clean
+CUST-7055,Male,No,Yes,Unknown,26,No,"No phone service","Fiber optic",No,"No internet service",Yes,Yes,Yes,No,"One year",No,"Mailed check",81.34,2120.47,No,Clean
+CUST-7056,Male,No,Yes,No,7,Yes,No,"Fiber optic",No,No,No,"No internet service","No internet service",Yes,"Two year",No,"Credit card",73.18,507.75,Yes,Clean
+CUST-7057,Female,No,Yes,No,2,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",34.98,76.74,Yes,Clean
+CUST-7058,Female,No,Yes,No,21,Yes,Yes,DSL,"No internet service","No internet service",Yes,Yes,Yes,No,Month-to-month,Yes,"Bank transfer",68.68,1442.98,No,Clean
+CUST-7059,Female,Yes,Yes,Yes,12,Yes,Yes,DSL,Yes,"No internet service","No internet service",No,"No internet service",Yes,"Two year",Yes,"Mailed check",62.39,746.16,No,Clean
+CUST-7060,Male,No,No,Yes,29,No,"No phone service",DSL,"No internet service",No,Yes,Yes,No,Yes,Month-to-month,No,"Mailed check",64.08,1857.89,Yes,Clean
+CUST-7061,Male,No,Yes,No,11,Yes,"No phone service",DSL,"No internet service",No,No,Yes,Yes,Yes,Month-to-month,No,"Bank transfer",76.94,854.29,Yes,Clean
+CUST-7062,Male,No,No,No,1,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",31.83,27.29,Yes,Clean
+CUST-7063,Male,No,No,Yes,10,Yes,"No phone service",DSL,"No internet service",No,Yes,Yes,"No internet service",No,"Two year",No,"Bank transfer",65.21,656.01,No,Clean
+CUST-7064,Male,No,No,No,19,Yes,"No phone service","Fiber optic",No,Yes,"No internet service",Yes,No,No,"One year",Yes,"Electronic check",99.94,1905.84,No,Clean
+CUST-7065,Male,No,No,No,1,Yes,"No phone service","Fiber optic","No internet service",No,No,"No internet service","No internet service",No,Month-to-month,Yes,"Bank transfer",79.17,80.44,Yes,Clean
+CUST-7066,Male,No,Yes,Yes,19,Yes,Yes,"Fiber optic",Yes,No,"No internet service","No internet service",Yes,No,"One year",No,"Credit card",82.01,1568.14,No,Clean
+CUST-7067,Female,No,Yes,No,15,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",33.00,501.77,Yes,Clean
+CUST-7068,Female,Yes,No,Yes,34,Yes,Yes,"Fiber optic",Yes,"No internet service",No,No,No,Yes,Month-to-month,No,"Mailed check",77.49,2628.68,No,Clean
+CUST-7069,Male,No,No,Yes,0,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",29.15,6.14,Yes,Clean
+CUST-7070,Male,No,No,Yes,72,Yes,"No phone service",DSL,Yes,Yes,"No internet service",Yes,"No internet service",Yes,Month-to-month,No,"Electronic check",68.36,4928.12,No,Clean
+CUST-7071,Female,No,Yes,No,21,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Mailed check",28.24,597.53,No,Clean
+CUST-7072,Female,No,No,Yes,64,Yes,Yes,DSL,Yes,"No internet service",Yes,Yes,Yes,"No internet service",Month-to-month,Yes,"Mailed check",63.65,4064.64,Yes,Clean
+CUST-7073,Male,No,Yes,No,24,No,"No phone service",DSL,No,"No internet service",Yes,No,Yes,"No internet service",Month-to-month,Yes,"Bank transfer",52.58,1265.17,No,Clean
+CUST-7074,Male,Yes,No,Yes,3,Yes,"No phone service","Fiber optic","No internet service",No,No,No,"No internet service",Yes,Month-to-month,Yes,"Credit card",80.84,251.15,Yes,Clean
+CUST-7075,Female,No,No,Yes,50,No,"No phone service","Fiber optic",Yes,No,Yes,Yes,Yes,"No internet service","One year",Yes,"Electronic check",90.43,4516.51,No,Clean
+CUST-7076,Male,Yes,Yes,No,11,Yes,Yes,DSL,No,No,Yes,Yes,No,Yes,"One year",Yes,"Mailed check",74.05,808.94,No,Clean
+CUST-7077,Male,No,Unknown,No,2,No,"No phone service",DSL,"No internet service",No,"No internet service",Yes,"No internet service","No internet service","Two year",Yes,"Bank transfer",52.72,114.36,No,Clean
+CUST-7078,Male,No,Yes,No,1,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Mailed check",25.08,25.08,Yes,Clean
+CUST-7079,Female,No,Yes,No,23,Yes,No,DSL,Yes,"No internet service",Yes,Yes,No,"No internet service","One year",No,"Electronic check",71.09,1634.17,No,Clean
+CUST-7080,Male,No,No,Yes,18,Yes,"No phone service","Fiber optic",No,No,"No internet service","No internet service",Yes,"No internet service","One year",No,"Bank transfer",75.86,1363.89,No,Clean
+CUST-7081,Male,Yes,Yes,No,0,Yes,"No phone service","Fiber optic",No,Yes,"No internet service","No internet service",Yes,No,Month-to-month,No,"Bank transfer",83.53,0.00,Yes,Clean
+CUST-7082,Male,Yes,Yes,No,43,Yes,Yes,"Fiber optic","No internet service",Yes,No,No,Yes,"No internet service",Month-to-month,Yes,"Mailed check",100.59,4328.64,No,Clean
+CUST-7083,Male,No,Yes,No,61,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",20.00,1220.00,Yes,Clean
+CUST-7084,Male,No,Yes,No,12,Yes,Yes,"Fiber optic",No,Yes,Yes,"No internet service",No,Yes,"One year",Yes,"Electronic check",94.64,1138.04,No,Clean
+CUST-7085,Female,No,Yes,No,4,Yes,Yes,"Fiber optic",No,No,"No internet service","No internet service",Yes,No,Month-to-month,Yes,"Bank transfer",82.40,337.51,Yes,Clean
+CUST-7086,Male,No,No,No,8,Yes,No,"Fiber optic","No internet service",No,No,No,Yes,Yes,Month-to-month,Yes,"Credit card",82.56,657.92,Yes,Clean
+CUST-7087,Male,No,No,No,38,Yes,"No phone service","Fiber optic",Yes,No,"No internet service","No internet service",No,No,Month-to-month,No,"Mailed check",81.88,3102.50,Yes,Clean
+CUST-7088,Female,No,No,No,2,Yes,Yes,DSL,Yes,No,No,Yes,No,Yes,"Two year",No,"Electronic check",71.99,140.78,No,Clean
+CUST-7089,Male,No,Yes,Yes,54,Yes,Yes,"Fiber optic",No,"No internet service",No,Yes,No,No,"Two year",Yes,"Bank transfer",82.37,4440.35,No,Clean
+CUST-7090,Male,No,Yes,Yes,4,Yes,No,DSL,No,No,Yes,"No internet service","No internet service",No,Month-to-month,No,"Electronic check",63.66,251.12,Yes,Clean
+CUST-7091,Female,No,No,No,36,Yes,No,"Fiber optic",Yes,No,"No internet service",No,No,Yes,"One year",No,"Bank transfer",87.96,3173.06,No,Clean
+CUST-7092,Female,No,Yes,No,65,Yes,No,DSL,Yes,"No internet service",Yes,"No internet service",No,"No internet service","Two year",No,"Mailed check",63.11,4107.44,No,Clean
+CUST-7093,Male,No,Yes,No,3,Yes,"No phone service",DSL,No,"No internet service",No,No,Yes,"No internet service","Two year",Yes,"Mailed check",54.54,166.98,Yes,Clean
+CUST-7094,Female,No,Yes,No,55,No,"No phone service",DSL,No,Yes,"No internet service",Yes,"No internet service",Yes,Month-to-month,No,"Bank transfer",55.25,3033.42,No,Clean
+CUST-7095,Female,Yes,No,No,63,Yes,"No phone service",DSL,"No internet service","No internet service",Yes,No,Yes,Yes,"Two year",Yes,"Bank transfer",66.34,4170.01,No,Clean
+CUST-7096,Female,No,Yes,No,39,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",20.00,771.57,No,Clean
+CUST-7097,Male,No,Yes,No,67,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Credit card",20.00,1345.91,No,Clean
+CUST-7098,Male,No,Yes,Yes,3,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",31.88,96.04,No,Clean
+CUST-7099,Male,No,Yes,No,58,Yes,No,DSL,No,Yes,Yes,No,Yes,"No internet service",Month-to-month,No,"Credit card",72.22,4187.79,Yes,Clean
+CUST-7100,Male,No,No,No,36,Yes,No,DSL,No,"No internet service",No,"No internet service","No internet service",Yes,"One year",Yes,"Electronic check",60.52,2178.72,No,Clean
+CUST-7101,Female,No,Yes,No,72,Yes,"No phone service","Fiber optic",No,Yes,No,No,"No internet service","No internet service","Two year",No,"Electronic check",69.14,4976.58,Yes,Clean
+CUST-7102,Male,Yes,Yes,No,16,No,"No phone service",DSL,"No internet service",No,Yes,Yes,Yes,Yes,"One year",No,"Bank transfer",59.60,947.30,No,Clean
+CUST-7103,Male,No,Yes,No,32,Yes,"No phone service","Fiber optic","No internet service",No,Yes,Yes,"No internet service",Yes,Month-to-month,Yes,"Mailed check",102.09,3268.83,Yes,Clean
+CUST-7104,Female,No,No,Yes,25,Yes,"No phone service",DSL,Yes,Yes,Yes,No,"No internet service",Yes,"Two year",Yes,"Credit card",75.56,1885.09,Yes,Clean
+CUST-7105,Female,No,No,Yes,17,Yes,"No phone service","Fiber optic",No,"No internet service","No internet service",No,No,No,"Two year",Yes,"Mailed check",74.98,1283.05,No,Clean
+CUST-7106,Male,No,No,No,42,Yes,Yes,DSL,"No internet service",Yes,No,"No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",55.94,2348.73,Yes,Clean
+CUST-7107,Female,No,Yes,No,33,Yes,No,"Fiber optic",Yes,"No internet service",No,Yes,No,Yes,"Two year",No,"Bank transfer",95.88,3170.86,No,Clean
+CUST-7108,Male,No,No,No,71,No,"No phone service","Fiber optic","No internet service","No internet service",No,No,Yes,Yes,"Two year",Yes,"Electronic check",82.06,5823.12,No,Clean
+CUST-7109,Male,No,No,No,14,Yes,"No phone service","Fiber optic",No,"No internet service","No internet service","No internet service",Yes,"No internet service","One year",No,"Credit card",90.59,1269.64,No,Clean
+CUST-7110,Male,No,Yes,Yes,63,Yes,Yes,DSL,"No internet service",Yes,"No internet service",Yes,"No internet service",No,Month-to-month,Yes,"Electronic check",68.94,4351.76,No,Clean
+CUST-7111,Female,No,No,Yes,11,Yes,No,DSL,Yes,"No internet service","No internet service",Yes,No,"No internet service",Month-to-month,Yes,"Bank transfer",53.51,585.72,No,Clean
+CUST-7112,Male,Yes,No,Yes,3,Yes,"No phone service","Fiber optic","No internet service","No internet service","No internet service","No internet service",No,"No internet service",Month-to-month,Yes,"Mailed check",73.51,222.83,Yes,Clean
+CUST-7113,Female,No,Yes,Yes,26,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",25.02,649.82,No,Clean
+CUST-7114,Female,No,Yes,No,57,Yes,"No phone service","Fiber optic",Yes,"No internet service","No internet service",Yes,Yes,Yes,"One year",Yes,"Credit card",89.27,5088.12,No,Clean
+CUST-7115,Male,No,Yes,No,50,Yes,Yes,DSL,Yes,"No internet service",No,No,Yes,No,"One year",No,"Credit card",60.55,3032.96,No,Clean
+CUST-7116,Female,No,No,Yes,50,Yes,"No phone service","Fiber optic","No internet service","No internet service","No internet service",No,No,Yes,"One year",Yes,"Bank transfer",82.38,4115.89,No,Clean
+CUST-7117,Female,Yes,No,Yes,51,Yes,No,"Fiber optic",Yes,"No internet service",No,Yes,"No internet service","No internet service","One year",No,"Credit card",83.61,4273.85,Yes,Clean
+CUST-7118,Male,No,No,No,15,No,"No phone service","Fiber optic",No,"No internet service",No,No,No,"No internet service",Month-to-month,No,"Credit card",65.60,993.82,No,Clean
+CUST-7119,Female,No,Yes,Yes,13,Yes,"No phone service","Fiber optic",Yes,No,"No internet service",No,Yes,No,"One year",Yes,"Bank transfer",85.08,1106.04,No,Clean
+CUST-7120,Male,No,Unknown,Unknown,50,Yes,No,DSL,"No internet service",Yes,"No internet service",No,No,Yes,"One year",No,"Bank transfer",74.95,3738.05,No,Clean
+CUST-7121,Female,No,No,Yes,42,No,"No phone service","Fiber optic",No,Yes,Yes,"No internet service","No internet service",Yes,Month-to-month,Yes,"Bank transfer",85.54,3597.05,Yes,Clean
+CUST-7122,Male,No,No,No,38,Yes,Yes,"Fiber optic",No,Yes,"No internet service","No internet service",Yes,"No internet service",Month-to-month,No,"Electronic check",82.83,3144.74,Yes,Clean
+CUST-7123,Female,No,No,No,23,Yes,Yes,DSL,Yes,No,"No internet service","No internet service",Yes,No,Month-to-month,Yes,"Credit card",65.42,1506.17,No,Clean
+CUST-7124,Female,No,No,Yes,42,Yes,No,DSL,Yes,No,"No internet service","No internet service",No,"No internet service",Month-to-month,Yes,"Credit card",55.69,2342.07,No,Clean
+CUST-7125,Male,No,No,No,31,Yes,No,"Fiber optic",Yes,"No internet service",Yes,Yes,Yes,No,"One year",No,"Credit card",97.19,3007.74,No,Clean
+CUST-7126,Female,Yes,Yes,Yes,8,Yes,Yes,"Fiber optic",Yes,No,No,Yes,"No internet service","No internet service",Month-to-month,No,Unknown,93.61,739.56,No,Clean
+CUST-7127,Male,No,No,No,56,No,"No phone service","Fiber optic",No,"No internet service",Yes,"No internet service",Yes,"No internet service",Month-to-month,No,"Bank transfer",74.07,4151.02,Yes,Clean
+CUST-7128,Female,No,Yes,No,6,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",29.93,170.76,No,Clean
+CUST-7129,Male,No,Yes,No,71,Yes,No,"Fiber optic","No internet service","No internet service","No internet service",Yes,Yes,"No internet service",Month-to-month,No,"Mailed check",83.63,5930.33,Yes,Clean
+CUST-7130,Female,No,Yes,No,49,Yes,Yes,DSL,Yes,"No internet service",Yes,Yes,Yes,"No internet service",Month-to-month,Yes,"Mailed check",77.48,3790.34,Yes,Clean
+CUST-7131,Male,No,No,No,4,Yes,"No phone service",DSL,Yes,No,No,Yes,"No internet service",Yes,Month-to-month,Yes,"Credit card",77.56,302.88,Yes,Clean
+CUST-7132,Male,No,No,No,9,No,"No phone service",DSL,"No internet service","No internet service",Yes,"No internet service",No,No,"One year",Yes,"Credit card",52.80,477.31,No,Clean
+CUST-7133,Male,No,Yes,No,22,Yes,Yes,"Fiber optic","No internet service",Yes,No,"No internet service","No internet service",No,Month-to-month,Yes,"Bank transfer",85.46,1875.37,Yes,Clean
+CUST-7134,Female,No,No,Yes,3,Yes,"No phone service",DSL,No,No,"No internet service","No internet service",Yes,Yes,Month-to-month,No,"Mailed check",72.19,212.92,Yes,Clean
+CUST-7135,Female,No,Yes,Yes,3,Yes,"No phone service",DSL,No,Yes,"No internet service","No internet service",Yes,"No internet service","One year",Yes,"Bank transfer",54.25,166.43,No,Clean
+CUST-7136,Male,No,Yes,No,9,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",31.03,285.75,Yes,Clean
+CUST-7137,Female,Yes,Yes,Yes,45,No,"No phone service",DSL,No,"No internet service",No,No,Yes,Yes,Month-to-month,No,"Mailed check",49.61,2234.59,No,Clean
+CUST-7138,Unknown,No,No,No,21,No,"No phone service","Fiber optic",No,"No internet service",No,No,Yes,Yes,Month-to-month,Yes,"Mailed check",73.22,1532.23,Yes,Clean
+CUST-7139,Female,No,Yes,Yes,0,Yes,Yes,DSL,Yes,Yes,"No internet service","No internet service",Yes,"No internet service","One year",No,"Credit card",66.73,0.00,Yes,Clean
+CUST-7140,Female,No,Yes,Yes,65,Yes,No,DSL,No,Yes,"No internet service",Yes,No,Yes,"Two year",No,"Electronic check",75.59,4906.15,No,Clean
+CUST-7141,Male,No,No,Yes,38,Yes,Yes,DSL,No,"No internet service","No internet service",Yes,No,Yes,Month-to-month,Yes,"Mailed check",60.52,2293.73,Yes,Clean
+CUST-7142,Male,No,No,No,9,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",20.00,179.31,No,Clean
+CUST-7143,Male,No,Yes,No,20,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",34.80,696.62,No,Clean
+CUST-7144,Female,No,Yes,No,47,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Credit card",20.00,930.60,No,Clean
+CUST-7145,Female,No,No,Yes,2,Yes,"No phone service",DSL,No,No,"No internet service",No,No,No,Month-to-month,No,"Bank transfer",45.20,92.84,No,Clean
+CUST-7146,Male,No,Yes,Yes,35,Yes,Yes,DSL,"No internet service",Yes,No,No,"No internet service",No,"Two year",No,"Electronic check",61.22,2135.86,No,Clean
+CUST-7147,Female,No,Yes,Yes,69,Yes,Yes,"Fiber optic",No,Yes,"No internet service","No internet service",No,"No internet service","One year",Yes,"Bank transfer",81.82,5637.44,No,Clean
+CUST-7148,Female,No,Yes,No,15,Yes,No,"Fiber optic",No,Yes,"No internet service",No,Yes,"No internet service",Month-to-month,No,"Electronic check",93.75,1405.77,No,Clean
+CUST-7149,Unknown,Yes,Yes,Yes,18,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",27.41,496.35,No,Clean
+CUST-7150,Female,No,No,No,30,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Electronic check",20.00,600.52,No,Clean
+CUST-7151,Male,No,Yes,No,0,Yes,No,DSL,Yes,Yes,"No internet service","No internet service","No internet service",No,Month-to-month,Yes,"Bank transfer",58.65,5.82,Yes,Clean
+CUST-7152,Female,No,Yes,No,1,Yes,Yes,"Fiber optic",No,Yes,No,"No internet service",No,"No internet service","Two year",No,"Mailed check",86.13,94.21,Yes,Clean
+CUST-7153,Male,Yes,Yes,Yes,12,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",20.00,238.24,Yes,Clean
+CUST-7154,Female,No,Yes,No,22,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",31.74,694.99,No,Clean
+CUST-7155,Male,No,Yes,No,52,Yes,Yes,DSL,No,"No internet service",Yes,"No internet service",Yes,No,Month-to-month,Yes,"Credit card",60.62,3149.12,No,Clean
+CUST-7156,Male,No,Yes,Yes,38,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",26.12,995.24,No,Clean
+CUST-7157,Male,No,No,No,69,Yes,No,"Fiber optic",Yes,"No internet service","No internet service","No internet service",Yes,Yes,Month-to-month,No,"Mailed check",87.46,6030.21,No,Clean
+CUST-7158,Male,No,No,No,3,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",29.60,91.67,No,Clean
+CUST-7159,Female,No,Yes,Yes,67,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",20.00,1332.37,No,Clean
+CUST-7160,Male,Yes,No,Yes,51,Yes,"No phone service","Fiber optic","No internet service","No internet service","No internet service","No internet service",No,"No internet service","One year",No,"Mailed check",70.92,3609.23,Yes,Clean
+CUST-7161,Female,No,Yes,Yes,21,Yes,No,DSL,"No internet service","No internet service",No,"No internet service",Yes,"No internet service",Month-to-month,No,"Electronic check",57.77,1217.64,No,Clean
+CUST-7162,Unknown,No,Yes,Yes,0,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",31.70,4.12,Yes,"Duplicate ID - Conflicting Values"
+CUST-7163,Male,No,Yes,No,44,Yes,"No phone service","Fiber optic",Yes,"No internet service",No,"No internet service",No,Yes,"Two year",No,"Electronic check",89.08,3916.84,Yes,Clean
+CUST-7164,Female,No,Yes,Yes,27,Yes,No,"Fiber optic","No internet service",No,No,Yes,"No internet service",No,Month-to-month,Yes,"Bank transfer",85.78,2316.26,Yes,Clean
+CUST-7165,Female,Yes,Yes,No,8,Yes,No,"Fiber optic","No internet service",No,No,No,"No internet service","No internet service",Month-to-month,Yes,"Credit card",69.83,564.95,No,Clean
+CUST-7166,Female,No,Yes,Yes,51,Yes,"No phone service","Fiber optic",Yes,"No internet service",Yes,"No internet service",No,"No internet service",Month-to-month,No,"Bank transfer",79.38,4038.84,Yes,Clean
+CUST-7167,Female,No,No,Yes,63,No,"No phone service",DSL,No,Yes,"No internet service","No internet service",Yes,No,Month-to-month,Yes,"Electronic check",58.26,3675.77,No,Clean
+CUST-7168,Female,No,No,Yes,43,Yes,No,"Fiber optic",Yes,No,"No internet service",Yes,"No internet service",No,Month-to-month,No,"Bank transfer",92.05,3956.06,Yes,Clean
+CUST-7169,Male,No,No,Yes,27,No,"No phone service","Fiber optic",No,"No internet service",No,No,No,Yes,Month-to-month,Yes,"Electronic check",64.10,1728.98,No,Clean
+CUST-7170,Female,No,Yes,No,0,Yes,"No phone service",DSL,"No internet service",Yes,Yes,No,"No internet service","No internet service",Month-to-month,Yes,"Credit card",71.93,0.00,No,Clean
+CUST-7171,Male,No,Yes,No,61,Yes,Yes,DSL,No,Yes,"No internet service","No internet service",Yes,Yes,Month-to-month,Yes,"Mailed check",70.35,4289.21,No,Clean
+CUST-7172,Female,No,No,Yes,46,Yes,Yes,DSL,No,Yes,"No internet service",Yes,"No internet service","No internet service",Month-to-month,Yes,"Electronic check",74.87,3453.71,Yes,Clean
+CUST-7173,Male,No,No,Yes,17,Yes,No,"Fiber optic","No internet service",Yes,Yes,No,Yes,Yes,"One year",Yes,"Bank transfer",96.04,1635.94,No,Clean
+CUST-7174,Female,No,Yes,Yes,25,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",33.83,854.22,Yes,Clean
+CUST-7175,Male,No,Yes,No,28,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",30.70,857.76,Yes,Clean
+CUST-7176,Male,No,Yes,No,3,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",Yes,No,"No internet service","One year",Yes,"Electronic check",75.53,235.46,No,Clean
+CUST-7177,Male,No,No,No,59,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,"One year",No,"Mailed check",70.77,4170.68,No,Clean
+CUST-7178,Female,Yes,Yes,No,55,Yes,"No phone service",DSL,Yes,"No internet service","No internet service",Yes,Yes,Yes,Month-to-month,No,"Bank transfer",71.33,3924.76,Yes,Clean
+CUST-7179,Female,No,No,Yes,72,Yes,Yes,"Fiber optic",Yes,"No internet service",Yes,Yes,No,Yes,Month-to-month,Yes,"Mailed check",97.11,7000.85,Yes,Clean
+CUST-7180,Female,No,Yes,Yes,45,Yes,Yes,DSL,Yes,Yes,"No internet service","No internet service",Yes,"No internet service","One year",No,"Credit card",67.98,3063.77,No,Clean
+CUST-7181,Female,No,Yes,No,13,Yes,No,"Fiber optic","No internet service","No internet service",Yes,No,Yes,"No internet service",Month-to-month,Yes,"Credit card",81.32,1064.20,Yes,Clean
+CUST-7182,Female,No,No,No,2,Yes,"No phone service",DSL,No,"No internet service",No,"No internet service",Yes,No,Month-to-month,No,"Mailed check",49.00,91.64,Yes,Clean
+CUST-7183,Female,No,No,Yes,34,Yes,No,DSL,No,Yes,No,No,No,No,"Two year",No,"Electronic check",62.50,2134.09,No,Clean
+CUST-7184,Female,No,Yes,Yes,29,Yes,Yes,"Fiber optic",Yes,No,Yes,No,No,"No internet service","Two year",No,"Mailed check",84.92,2457.77,No,Clean
+CUST-7185,Female,No,No,No,61,Yes,No,"Fiber optic",Yes,"No internet service","No internet service",No,"No internet service",Yes,"Two year",Yes,"Bank transfer",90.27,5501.98,Yes,Clean
+CUST-7186,Female,Yes,Yes,Yes,15,Yes,No,DSL,No,"No internet service","No internet service","No internet service",Yes,"No internet service",Month-to-month,Yes,"Credit card",53.93,817.43,No,Clean
+CUST-7187,Male,No,No,No,9,Yes,"No phone service",DSL,Yes,No,"No internet service",No,"No internet service",Yes,Month-to-month,Yes,"Bank transfer",58.56,522.06,No,Clean
+CUST-7188,Male,No,Yes,Unknown,63,Yes,"No phone service","Fiber optic",Yes,No,"No internet service","No internet service","No internet service",Yes,Month-to-month,No,"Mailed check",79.21,4984.69,No,Clean
+CUST-7189,Female,Yes,No,No,10,Yes,No,DSL,No,"No internet service",No,"No internet service",No,No,Month-to-month,No,"Mailed check",51.66,516.23,No,Clean
+CUST-7190,Female,No,No,Yes,10,Yes,No,"Fiber optic","No internet service",No,"No internet service",No,"No internet service","No internet service",Month-to-month,No,"Bank transfer",74.54,736.97,Yes,Clean
+CUST-7191,Female,Yes,Yes,Yes,65,No,"No phone service","Fiber optic",Yes,"No internet service",No,"No internet service",Yes,Yes,Month-to-month,Yes,"Credit card",77.56,5041.57,No,Clean
+CUST-7192,Male,No,Yes,No,32,Yes,No,"Fiber optic","No internet service","No internet service","No internet service","No internet service",No,No,Month-to-month,Yes,"Electronic check",84.28,2700.76,Yes,Clean
+CUST-7193,Male,No,Yes,Yes,34,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",29.67,1008.91,Yes,Clean
+CUST-7194,Female,No,No,No,7,Yes,Yes,"Fiber optic","No internet service",No,No,No,Yes,No,"One year",Yes,Unknown,94.74,658.77,Yes,Clean
+CUST-7195,Male,No,Yes,Yes,52,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Bank transfer",32.67,1708.52,No,Clean
+CUST-7196,Female,No,Yes,No,51,Yes,No,"Fiber optic",Yes,No,No,Yes,Yes,"No internet service","One year",No,"Bank transfer",88.11,4498.58,Yes,Clean
+CUST-7197,Male,No,No,Yes,39,Yes,No,"Fiber optic",No,"No internet service","No internet service",Yes,Yes,No,"One year",Yes,"Electronic check",76.53,2981.91,No,Clean
+CUST-7198,Male,No,No,No,48,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Credit card",29.13,1400.10,Yes,Clean
+CUST-7199,Female,No,Yes,No,2,Yes,No,"Fiber optic",Yes,"No internet service",Yes,Yes,"No internet service",No,Month-to-month,No,"Credit card",86.67,164.56,No,Clean
+CUST-7200,Female,No,Yes,Yes,41,Yes,Yes,DSL,No,"No internet service",Yes,No,Yes,"No internet service",Month-to-month,Yes,"Credit card",52.53,2159.43,No,Clean
+CUST-7201,Female,No,Yes,No,6,No,"No phone service","Fiber optic","No internet service","No internet service",Yes,"No internet service",Yes,No,"Two year",No,"Mailed check",81.05,479.74,No,Clean
+CUST-7202,Male,No,Yes,No,28,Yes,No,"Fiber optic",No,No,No,No,Yes,No,Month-to-month,No,"Bank transfer",85.99,2411.35,Yes,Clean
+CUST-7203,Female,No,No,No,43,Yes,No,"Fiber optic",Yes,"No internet service",Yes,"No internet service",Yes,"No internet service","One year",No,"Bank transfer",100.15,4311.55,Yes,Clean
+CUST-7204,Male,Yes,Yes,Yes,30,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",29.12,867.18,Yes,Clean
+CUST-7205,Male,No,Yes,Unknown,68,Yes,"No phone service",DSL,Yes,Yes,No,No,No,Yes,"Two year",Yes,"Electronic check",70.67,4814.11,No,Clean
+CUST-7206,Female,No,Yes,Yes,3,Yes,Yes,DSL,"No internet service","No internet service",Yes,"No internet service",Yes,No,"One year",Yes,"Electronic check",59.89,174.83,No,Clean
+CUST-7207,Male,No,Yes,Yes,67,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Credit card",20.00,1335.36,Yes,Clean
+CUST-7208,Female,No,Yes,No,30,No,"No phone service","Fiber optic",No,Yes,"No internet service",No,"No internet service",No,"Two year",No,"Credit card",77.30,2309.57,No,Clean
+CUST-7209,Male,Yes,No,No,65,Yes,Yes,DSL,Yes,"No internet service",Yes,Yes,"No internet service",No,"Two year",No,"Credit card",65.98,4279.27,No,Clean
+CUST-7210,Female,No,Yes,No,3,Yes,"No phone service","Fiber optic",No,No,"No internet service","No internet service",No,Yes,"One year",No,"Mailed check",88.73,268.79,No,Clean
+CUST-7211,Female,No,No,Yes,3,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",No,No,No,Month-to-month,Yes,"Electronic check",70.84,214.05,Yes,Clean
+CUST-7212,Female,No,No,Yes,12,Yes,No,DSL,No,Yes,"No internet service","No internet service",Yes,"No internet service",Month-to-month,No,"Mailed check",72.40,874.34,No,Clean
+CUST-7213,Female,Yes,Yes,Yes,21,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",26.03,555.09,Yes,Clean
+CUST-7214,Female,No,Yes,No,0,Yes,"No phone service",DSL,No,"No internet service",No,Yes,"No internet service","No internet service",Month-to-month,No,"Mailed check",48.71,0.00,Yes,Clean
+CUST-7215,Female,No,No,Yes,28,Yes,Yes,DSL,No,"No internet service",Yes,Yes,"No internet service",No,Month-to-month,Yes,"Credit card",61.84,1726.60,No,Clean
+CUST-7216,Male,No,Yes,Yes,61,Yes,Yes,"Fiber optic","No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",72.25,4402.94,No,Clean
+CUST-7217,Female,No,Yes,No,20,Yes,No,"Fiber optic",Yes,No,Yes,Yes,No,"No internet service",Month-to-month,No,"Mailed check",96.43,1925.64,No,Clean
+CUST-7218,Male,No,No,Yes,10,Yes,Yes,"Fiber optic",Yes,"No internet service",No,"No internet service",No,"No internet service",Month-to-month,No,"Bank transfer",85.78,857.82,Yes,Clean
+CUST-7219,Female,No,Yes,No,30,Yes,No,DSL,"No internet service",No,No,Yes,"No internet service","No internet service",Month-to-month,No,"Credit card",57.77,1742.04,No,Clean
+CUST-7220,Male,No,Yes,No,64,Yes,Yes,"Fiber optic","No internet service","No internet service",Yes,Yes,Yes,No,Month-to-month,No,"Bank transfer",86.37,5534.54,Yes,Clean
+CUST-7221,Female,No,Yes,No,10,Yes,No,"Fiber optic",Yes,Yes,No,"No internet service",No,Yes,Month-to-month,No,"Bank transfer",84.10,843.07,No,Clean
+CUST-7222,Female,No,Yes,Yes,34,No,"No phone service",DSL,Yes,"No internet service",No,"No internet service","No internet service",Yes,"One year",No,"Electronic check",55.38,1882.92,No,Clean
+CUST-7223,Male,Yes,Yes,No,6,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",27.12,172.57,No,Clean
+CUST-7224,Female,No,Yes,Yes,11,Yes,Yes,DSL,"No internet service","No internet service",Yes,"No internet service",No,Yes,Month-to-month,Yes,"Bank transfer",71.24,781.64,No,Clean
+CUST-7226,Male,No,Yes,Yes,3,Yes,No,"Fiber optic",No,Yes,Yes,Yes,Yes,Yes,"Two year",No,"Bank transfer",87.16,268.45,Yes,Clean
+CUST-7227,Female,No,Yes,Unknown,48,Yes,No,DSL,"No internet service","No internet service",Yes,"No internet service",Yes,No,Month-to-month,No,"Mailed check",75.28,3615.69,Yes,Clean
+CUST-7228,Female,Yes,No,No,53,Yes,No,DSL,"No internet service",Yes,No,"No internet service",Yes,Yes,"Two year",Yes,"Credit card",72.55,3854.62,No,Clean
+CUST-7229,Male,No,Yes,No,58,Yes,No,"Fiber optic",No,"No internet service","No internet service",Yes,No,"No internet service","Two year",Yes,"Mailed check",83.89,4865.57,No,Clean
+CUST-7230,Female,No,Yes,Yes,71,Yes,No,DSL,Yes,Yes,No,No,"No internet service",No,"One year",Yes,"Credit card",69.16,4918.04,No,Clean
+CUST-7231,Male,No,Yes,No,50,Yes,Yes,"Fiber optic",Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,"Mailed check",94.57,4732.26,No,Clean
+CUST-7232,Male,No,Yes,Yes,26,Yes,No,DSL,"No internet service",No,"No internet service",Yes,No,"No internet service",Month-to-month,Yes,"Bank transfer",60.25,1559.81,No,Clean
+CUST-7233,Male,No,No,Yes,34,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Bank transfer",20.00,682.32,Yes,Clean
+CUST-7234,Female,Yes,No,Yes,9,Yes,"No phone service","Fiber optic",No,"No internet service",Yes,Yes,Yes,"No internet service",Month-to-month,Yes,"Credit card",98.55,881.70,Yes,Clean
+CUST-7235,Male,No,No,No,35,Yes,"No phone service",DSL,"No internet service","No internet service",No,No,No,No,"Two year",No,"Electronic check",56.26,1969.04,No,Clean
+CUST-7236,Female,No,Yes,Yes,55,Yes,Yes,"Fiber optic",Yes,No,"No internet service",No,Yes,Yes,Month-to-month,Yes,"Electronic check",104.11,5733.63,Yes,Clean
+CUST-7237,Female,Yes,No,Yes,50,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Credit card",20.00,1001.44,Yes,Clean
+CUST-7238,Female,No,No,Yes,52,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",20.00,1046.96,Yes,Clean
+CUST-7239,Female,No,Yes,Yes,65,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Electronic check",33.73,2193.06,No,Clean
+CUST-7240,Female,Yes,Yes,Yes,6,Yes,No,DSL,Yes,"No internet service",No,"No internet service",Yes,No,"Two year",No,"Electronic check",62.15,371.78,No,Clean
+CUST-7241,Male,No,Yes,Yes,0,Yes,Yes,DSL,"No internet service","No internet service",No,Yes,"No internet service",No,Month-to-month,Yes,"Credit card",51.83,0.00,Yes,Clean
+CUST-7242,Male,No,Yes,Yes,9,Yes,No,"Fiber optic",No,"No internet service","No internet service",Yes,Yes,No,"One year",No,"Bank transfer",88.62,804.13,No,Clean
+CUST-7243,Female,No,Yes,No,39,Yes,No,"Fiber optic",No,Yes,"No internet service",No,"No internet service","No internet service","Two year",Yes,"Credit card",84.13,3286.80,Yes,Clean
+CUST-7244,Female,No,Yes,Yes,30,Yes,No,"Fiber optic",No,No,Yes,No,No,No,"Two year",Yes,"Bank transfer",75.95,2276.69,No,Clean
+CUST-7245,Female,No,Yes,No,33,Yes,Yes,"Fiber optic","No internet service","No internet service","No internet service","No internet service","No internet service",No,Month-to-month,No,"Mailed check",78.23,2571.69,Yes,Clean
+CUST-7246,Female,No,Yes,No,67,Yes,No,"Fiber optic","No internet service","No internet service","No internet service",No,"No internet service",Yes,Month-to-month,Yes,"Credit card",81.78,5472.56,Yes,Clean
+CUST-7247,Male,No,No,No,65,Yes,Yes,"Fiber optic","No internet service",No,No,"No internet service","No internet service",No,Month-to-month,No,"Bank transfer",73.48,4780.50,No,Clean
+CUST-7248,Female,No,Yes,No,55,Yes,No,"Fiber optic",No,"No internet service",Yes,"No internet service","No internet service",Yes,Month-to-month,Yes,"Mailed check",76.25,4196.70,No,Clean
+CUST-7249,Female,No,Yes,No,33,Yes,"No phone service","Fiber optic","No internet service",No,"No internet service","No internet service","No internet service",No,Month-to-month,Yes,"Credit card",66.16,2186.90,Yes,Clean
+CUST-7250,Female,No,Yes,Yes,17,Yes,"No phone service","Fiber optic",No,No,Yes,"No internet service",No,No,"One year",No,"Electronic check",83.22,1409.66,Yes,Clean
+CUST-7251,Male,No,No,No,8,Yes,Yes,"Fiber optic","No internet service",No,Yes,No,Yes,No,"Two year",Yes,"Bank transfer",88.70,708.66,Yes,Clean
+CUST-7252,Female,No,No,Yes,8,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",27.06,225.84,No,Clean
+CUST-7253,Male,No,No,No,37,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",29.95,1115.32,No,Clean
+CUST-7254,Male,No,No,Yes,63,Yes,"No phone service",DSL,No,No,"No internet service",No,No,"No internet service",Month-to-month,No,"Bank transfer",45.35,2853.58,No,Clean
+CUST-7255,Female,No,Yes,Yes,28,Yes,Yes,"Fiber optic",Yes,No,No,Yes,"No internet service",Yes,Month-to-month,Yes,"Bank transfer",93.18,2605.00,No,Clean
+CUST-7256,Unknown,No,Yes,No,11,Yes,"No phone service","Fiber optic",Yes,"No internet service","No internet service",Yes,Yes,Yes,Month-to-month,No,"Credit card",98.76,1083.13,No,Clean
+CUST-7257,Male,No,Yes,Yes,32,Yes,"No phone service","Fiber optic",Yes,No,No,Yes,No,No,"Two year",No,"Electronic check",86.70,2769.80,No,Clean
+CUST-7258,Male,No,Unknown,No,2,No,"No phone service",DSL,No,"No internet service","No internet service",No,No,"No internet service",Month-to-month,Yes,"Mailed check",35.85,79.35,No,Clean
+CUST-7259,Female,No,No,No,42,Yes,No,"Fiber optic",Yes,"No internet service",Yes,Yes,No,"No internet service","Two year",Yes,"Credit card",98.42,4132.15,No,Clean
+CUST-7261,Male,No,No,Yes,43,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Credit card",33.56,1443.08,No,Clean
+CUST-7262,Male,No,No,Yes,25,Yes,"No phone service",DSL,Yes,No,"No internet service","No internet service","No internet service",Yes,Month-to-month,Yes,"Bank transfer",64.09,1595.28,No,Clean
+CUST-7263,Female,No,No,No,62,Yes,No,"Fiber optic",Yes,Yes,"No internet service",Yes,No,Yes,"Two year",Yes,"Electronic check",98.92,6130.35,No,Clean
+CUST-7264,Male,No,No,No,57,Yes,No,"Fiber optic",No,Yes,No,No,"No internet service",No,Month-to-month,No,"Mailed check",84.85,4828.28,No,Clean
+CUST-7265,Female,No,Yes,Yes,61,Yes,"No phone service","Fiber optic",Yes,"No internet service",Yes,No,No,No,Month-to-month,Yes,"Credit card",79.92,4881.79,No,Clean
+CUST-7266,Male,No,Yes,Yes,46,No,"No phone service",DSL,Yes,Yes,Yes,"No internet service",No,"No internet service","One year",Yes,"Electronic check",59.09,2709.37,No,Clean
+CUST-7267,Female,No,No,No,61,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",26.67,1631.65,Yes,Clean
+CUST-7268,Female,Yes,Yes,No,44,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Electronic check",26.66,1167.27,No,Clean
+CUST-7269,Male,No,Yes,No,47,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",26.88,1266.08,No,Clean
+CUST-7270,Male,No,No,No,59,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",30.26,1783.43,Yes,Clean
+CUST-7271,Male,No,No,No,2,Yes,No,"Fiber optic",No,Yes,Yes,Yes,Yes,"No internet service","One year",No,"Credit card",94.66,190.31,No,Clean
+CUST-7272,Male,No,Yes,No,65,Yes,Yes,DSL,"No internet service",Yes,No,"No internet service",No,Yes,Month-to-month,Yes,"Bank transfer",68.34,4432.86,Yes,Clean
+CUST-7273,Male,No,Yes,Yes,60,Yes,No,DSL,Yes,Yes,"No internet service","No internet service","No internet service",Yes,"One year",No,"Bank transfer",68.37,4104.62,No,Clean
+CUST-7274,Male,No,Yes,No,33,Yes,No,DSL,No,"No internet service","No internet service",Yes,Yes,No,"One year",No,"Bank transfer",65.90,2178.12,No,Clean
+CUST-7275,Female,No,Yes,No,37,Yes,No,DSL,"No internet service",No,No,"No internet service","No internet service",Yes,"One year",Yes,"Credit card",54.72,2017.50,No,Clean
+CUST-7276,Female,No,Unknown,Yes,51,Yes,No,"Fiber optic",Yes,Yes,No,Yes,No,No,Month-to-month,No,"Bank transfer",86.18,4400.96,Yes,Clean
+CUST-7277,Male,No,No,Yes,1,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",33.85,24.13,Yes,Clean
+CUST-7278,Unknown,No,No,Yes,7,Yes,No,"Fiber optic",Yes,"No internet service",Yes,No,Yes,"No internet service","One year",Yes,"Bank transfer",100.86,710.85,Yes,Clean
+CUST-7279,Female,Yes,Yes,No,29,No,"No phone service","Fiber optic","No internet service","No internet service",Yes,"No internet service",No,Yes,Month-to-month,Yes,"Electronic check",79.35,2294.51,Yes,Clean
+CUST-7280,Female,No,Yes,Yes,24,Yes,Yes,"Fiber optic",Yes,Yes,"No internet service","No internet service","No internet service",Yes,"Two year",No,"Bank transfer",101.04,2416.11,No,Clean
+CUST-7281,Female,No,Yes,Yes,19,Yes,"No phone service",DSL,Yes,Yes,No,Yes,Yes,No,"Two year",No,"Mailed check",66.82,1279.52,No,Clean
+CUST-7282,Female,No,No,Yes,25,Yes,No,"Fiber optic",Yes,Yes,Yes,"No internet service",No,"No internet service",Month-to-month,Yes,"Electronic check",91.23,2277.22,No,Clean
+CUST-7284,Female,No,Yes,Yes,48,Yes,Yes,"Fiber optic",Yes,Yes,"No internet service",Yes,"No internet service",No,"Two year",Yes,"Mailed check",100.55,4832.72,No,Clean
+CUST-7285,Male,No,Yes,Yes,14,Yes,Yes,"Fiber optic","No internet service","No internet service",No,Yes,Yes,Yes,"Two year",No,"Mailed check",94.87,1332.04,No,Clean
+CUST-7286,Male,No,No,No,50,Yes,Yes,DSL,Yes,"No internet service",Yes,"No internet service","No internet service",Yes,Month-to-month,No,"Mailed check",73.09,3649.19,No,Clean
+CUST-7287,Male,No,Yes,Yes,55,Yes,Yes,"Fiber optic","No internet service",No,"No internet service",No,"No internet service",No,Month-to-month,Yes,"Mailed check",74.47,4086.73,No,Clean
+CUST-7288,Female,No,Yes,Yes,62,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",30.52,1899.06,No,Clean
+CUST-7289,Female,No,No,Yes,49,Yes,No,DSL,"No internet service","No internet service",No,No,"No internet service",Yes,Month-to-month,No,"Mailed check",56.01,2734.74,No,Clean
+CUST-7290,Female,No,No,No,3,Yes,No,"Fiber optic",Yes,No,Yes,No,No,Yes,Month-to-month,No,"Mailed check",100.93,299.88,Yes,Clean
+CUST-7291,Female,No,No,No,55,Yes,"No phone service",DSL,"No internet service",No,Yes,"No internet service",Yes,No,Month-to-month,No,"Electronic check",59.42,3265.85,Yes,Clean
+CUST-7292,Female,No,No,No,12,Yes,Yes,DSL,Yes,Yes,"No internet service",Yes,Yes,Yes,Month-to-month,Yes,"Credit card",78.51,935.55,No,Clean
+CUST-7293,Male,No,Yes,Yes,44,Yes,"No phone service","Fiber optic",Yes,No,No,"No internet service",No,"No internet service",Month-to-month,Yes,"Mailed check",72.58,3188.96,No,Clean
+CUST-7294,Female,No,Yes,No,72,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",31.61,2266.15,No,Clean
+CUST-7295,Male,No,No,No,61,Yes,"No phone service","Fiber optic","No internet service",Yes,No,Yes,No,No,"One year",No,"Bank transfer",84.68,5161.86,No,Clean
+CUST-7296,Male,No,Yes,Yes,9,Yes,No,DSL,Yes,"No internet service","No internet service",No,"No internet service",Yes,Month-to-month,Yes,"Bank transfer",59.35,534.15,Yes,"Duplicate ID - Conflicting Values"
+CUST-7297,Female,No,Yes,No,15,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Bank transfer",28.70,435.83,No,Clean
+CUST-7298,Male,No,Yes,Yes,28,Yes,No,DSL,"No internet service",No,No,"No internet service",Yes,"No internet service",Month-to-month,Yes,"Credit card",57.41,1603.61,No,Clean
+CUST-7299,Male,Yes,No,Yes,38,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",27.70,1046.66,No,Clean
+CUST-7300,Female,No,Yes,Yes,0,Yes,No,DSL,"No internet service","No internet service","No internet service",Yes,"No internet service","No internet service","Two year",No,"Credit card",55.46,0.00,No,Clean
+CUST-7301,Female,No,Yes,Yes,47,Yes,Yes,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,"Credit card",63.70,3002.50,Yes,Clean
+CUST-7302,Female,No,No,Yes,72,Yes,Yes,"Fiber optic",Yes,Yes,Yes,"No internet service",No,Yes,Month-to-month,No,"Credit card",92.44,6658.67,No,Clean
+CUST-7303,Male,No,Yes,Yes,64,Yes,Yes,"Fiber optic",Yes,No,No,Yes,Yes,"No internet service","Two year",No,"Credit card",90.77,5803.09,No,Clean
+CUST-7304,Male,No,Yes,No,56,Yes,No,DSL,No,Yes,Yes,"No internet service",Yes,Yes,Month-to-month,No,"Credit card",73.31,4105.17,No,Clean
+CUST-7305,Male,No,Yes,Yes,64,Yes,"No phone service","Fiber optic",No,"No internet service","No internet service","No internet service",No,"No internet service","One year",No,"Mailed check",79.45,5076.32,No,Clean
+CUST-7306,Male,No,Unknown,No,41,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",30.61,1256.04,Yes,Clean
+CUST-7307,Female,No,Yes,Yes,59,Yes,"No phone service","Fiber optic",No,No,Yes,"No internet service","No internet service","No internet service","One year",Yes,"Bank transfer",88.45,5216.21,No,Clean
+CUST-7308,Male,No,Yes,Yes,7,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",20.00,144.53,No,Clean
+CUST-7309,Female,No,Yes,No,22,Yes,Yes,"Fiber optic","No internet service",Yes,"No internet service","No internet service","No internet service","No internet service","Two year",No,"Credit card",71.99,1591.53,No,Clean
+CUST-7310,Female,No,Yes,Yes,1,Yes,"No phone service","Fiber optic","No internet service",No,No,"No internet service",No,Yes,"One year",Yes,"Electronic check",80.28,79.62,No,Clean
+CUST-7311,Male,No,Yes,Yes,46,Yes,No,"Fiber optic",Yes,Yes,No,Yes,No,"No internet service","One year",No,"Credit card",94.62,4344.95,No,Clean
+CUST-7312,Male,No,Yes,No,16,Yes,No,DSL,"No internet service","No internet service",No,"No internet service","No internet service",No,"One year",No,"Credit card",56.94,920.41,Yes,Clean
+CUST-7313,Female,No,No,Yes,20,Yes,No,DSL,No,No,No,Yes,No,"No internet service","Two year",No,"Bank transfer",56.95,1141.40,No,Clean
+CUST-7314,Female,Yes,Yes,No,4,Yes,"No phone service","Fiber optic",No,"No internet service",Yes,No,"No internet service",Yes,Month-to-month,Yes,"Electronic check",86.57,356.28,Yes,Clean
+CUST-7315,Female,No,No,No,60,Yes,Yes,"Fiber optic",Yes,No,No,No,Yes,No,Month-to-month,No,"Electronic check",89.50,5368.05,No,Clean
+CUST-7316,Male,Yes,No,Yes,27,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",26.60,717.86,Yes,Clean
+CUST-7317,Unknown,No,Yes,Yes,2,Yes,Yes,"Fiber optic","No internet service",No,No,Yes,Yes,No,Month-to-month,No,"Electronic check",88.63,183.33,Yes,Clean
+CUST-7318,Female,No,No,Yes,4,Yes,Yes,DSL,Yes,"No internet service",No,"No internet service",No,"No internet service","Two year",Yes,"Bank transfer",64.52,263.15,Yes,Clean
+CUST-7319,Male,No,No,No,44,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Mailed check",20.00,872.55,No,Clean
+CUST-7320,Female,No,No,No,38,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",30.68,1157.07,No,Clean
+CUST-7322,Female,No,No,No,47,No,"No phone service","Fiber optic","No internet service",Yes,"No internet service",Yes,Yes,Yes,Month-to-month,Yes,"Mailed check",79.38,3728.77,No,Clean
+CUST-7323,Female,Yes,Yes,No,2,Yes,Yes,DSL,Yes,No,No,No,No,No,"One year",Yes,"Electronic check",68.30,127.41,No,Clean
+CUST-7324,Male,No,No,No,53,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",27.42,1451.47,Yes,Clean
+CUST-7325,Female,No,Yes,No,28,Yes,No,"Fiber optic",Yes,Yes,Yes,"No internet service",No,No,Month-to-month,Yes,"Mailed check",94.23,2638.33,Yes,Clean
+CUST-7326,Female,No,No,Yes,46,Yes,"No phone service",DSL,No,"No internet service","No internet service",No,Yes,No,"Two year",Yes,"Bank transfer",60.19,2758.76,No,Clean
+CUST-7327,Female,No,No,Yes,0,Yes,"No phone service","Fiber optic",No,"No internet service",No,No,No,Yes,"One year",No,"Mailed check",84.39,0.00,Yes,Clean
+CUST-7328,Male,No,Yes,No,58,Yes,Yes,DSL,"No internet service",Yes,No,No,No,No,Month-to-month,No,"Bank transfer",60.76,3530.65,Yes,Clean
+CUST-7329,Female,No,No,Yes,53,Yes,No,DSL,"No internet service",Yes,No,"No internet service",Yes,"No internet service",Month-to-month,No,"Bank transfer",57.71,3064.13,No,Clean
+CUST-7330,Female,No,Unknown,Yes,42,No,"No phone service",DSL,"No internet service","No internet service","No internet service","No internet service",No,"No internet service",Month-to-month,Yes,"Bank transfer",43.30,1811.90,Yes,Clean
+CUST-7331,Male,No,No,No,53,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Credit card",31.40,1659.99,Yes,Clean
+CUST-7332,Female,No,No,Yes,10,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",30.44,297.37,No,Clean
+CUST-7333,Female,No,Unknown,Yes,11,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",28.39,319.08,No,Clean
+CUST-7334,Male,Yes,Yes,Yes,52,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,No,Yes,Yes,"Two year",No,"Mailed check",83.54,4344.08,No,Clean
+CUST-7335,Male,No,Yes,Yes,4,Yes,Yes,DSL,"No internet service",No,No,No,"No internet service",No,Month-to-month,No,"Credit card",45.39,184.69,Yes,Clean
+CUST-7336,Male,No,No,Yes,14,Yes,"No phone service",DSL,No,"No internet service","No internet service",No,No,Yes,Month-to-month,Yes,"Bank transfer",56.43,788.97,No,Clean
+CUST-7337,Male,Yes,Yes,No,13,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,"Bank transfer",60.14,783.13,No,Clean
+CUST-7338,Female,No,No,Yes,70,Yes,No,"Fiber optic","No internet service","No internet service","No internet service",No,Yes,No,"Two year",Yes,"Electronic check",74.87,5249.43,No,Clean
+CUST-7339,Female,No,No,Yes,20,No,"No phone service",DSL,No,"No internet service","No internet service","No internet service","No internet service",No,"One year",Yes,"Credit card",38.11,766.29,No,Clean
+CUST-7340,Male,No,No,No,3,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",No,No,"No internet service","One year",No,"Mailed check",72.18,209.18,Yes,Clean
+CUST-7341,Male,No,Yes,No,35,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Mailed check",27.73,970.67,No,Clean
+CUST-7342,Male,No,Unknown,Yes,58,Yes,No,"Fiber optic",Yes,No,"No internet service",No,Yes,"No internet service",Month-to-month,Yes,"Bank transfer",79.65,4613.15,Yes,Clean
+CUST-7343,Male,No,Yes,No,41,Yes,Yes,"Fiber optic",Yes,Yes,"No internet service",No,"No internet service","No internet service",Month-to-month,Yes,"Electronic check",92.20,3786.88,Yes,Clean
+CUST-7344,Female,No,No,No,50,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",25.87,1299.92,No,Clean
+CUST-7345,Male,Yes,Yes,No,38,Yes,No,"Fiber optic",Yes,No,No,Yes,No,"No internet service",Month-to-month,Yes,"Mailed check",97.42,3697.76,Yes,Clean
+CUST-7346,Female,No,No,No,3,Yes,Yes,"Fiber optic",No,"No internet service",Yes,No,No,No,"One year",Yes,"Credit card",80.25,247.04,Yes,Clean
+CUST-7347,Female,No,Yes,Yes,2,Yes,Yes,DSL,Yes,"No internet service","No internet service","No internet service",Yes,"No internet service",Month-to-month,Yes,"Electronic check",70.89,145.55,Yes,Clean
+CUST-7348,Female,No,Yes,No,30,Yes,Yes,DSL,Yes,No,"No internet service",No,"No internet service","No internet service","One year",No,"Bank transfer",51.49,1535.73,No,Clean
+CUST-7349,Male,No,Yes,No,39,Yes,"No phone service","Fiber optic",Yes,Yes,"No internet service","No internet service","No internet service",Yes,"One year",No,"Mailed check",94.61,3699.44,No,Clean
+CUST-7350,Female,No,Yes,Yes,51,Yes,Yes,"Fiber optic",Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,"Electronic check",94.52,4814.27,No,Clean
+CUST-7351,Female,No,No,No,8,Yes,"No phone service","Fiber optic","No internet service","No internet service","No internet service","No internet service",No,"No internet service","One year",No,"Electronic check",78.17,620.44,No,Clean
+CUST-7352,Male,No,No,No,59,Yes,Yes,"Fiber optic","No internet service","No internet service",No,No,No,Yes,Month-to-month,Yes,"Electronic check",72.85,4297.98,No,Clean
+CUST-7353,Male,No,Yes,Yes,50,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",27.07,1348.18,Yes,Clean
+CUST-7354,Male,No,Unknown,No,44,Yes,"No phone service",DSL,No,No,"No internet service",No,"No internet service",No,Month-to-month,Yes,"Bank transfer",56.57,2482.41,Yes,Clean
+CUST-7355,Female,No,No,Yes,44,Yes,Yes,DSL,Yes,No,"No internet service","No internet service","No internet service",No,Month-to-month,No,"Bank transfer",58.71,2575.57,Yes,Clean
+CUST-7356,Female,Yes,Yes,No,31,Yes,"No phone service",DSL,"No internet service",No,"No internet service",No,No,Yes,"One year",Yes,"Electronic check",59.73,1854.62,No,Clean
+CUST-7357,Male,No,No,No,3,Yes,No,"Fiber optic",Yes,"No internet service","No internet service",No,No,Yes,"One year",No,"Bank transfer",95.64,279.87,Yes,Clean
+CUST-7358,Female,No,Yes,Yes,25,No,"No phone service","Fiber optic",Yes,No,No,"No internet service","No internet service",Yes,"Two year",Yes,"Bank transfer",72.47,1814.40,No,Clean
+CUST-7359,Female,No,No,Yes,19,Yes,No,"Fiber optic","No internet service",Yes,No,Yes,Yes,No,Month-to-month,No,"Electronic check",94.04,1776.82,Yes,Clean
+CUST-7360,Female,No,Yes,No,24,Yes,"No phone service",DSL,No,"No internet service",No,No,"No internet service","No internet service",Month-to-month,No,"Electronic check",48.72,1171.45,Yes,Clean
+CUST-7361,Female,No,No,Yes,22,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Credit card",33.25,737.78,No,Clean
+CUST-7362,Female,No,Yes,Yes,17,Yes,Yes,DSL,No,No,"No internet service",Yes,"No internet service",No,Month-to-month,No,"Mailed check",50.04,857.23,Yes,Clean
+CUST-7363,Female,No,Yes,No,66,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",32.63,2152.19,No,Clean
+CUST-7364,Male,Yes,No,No,20,Yes,Yes,DSL,"No internet service",No,"No internet service",Yes,"No internet service",No,Month-to-month,No,"Bank transfer",53.15,1065.38,Yes,Clean
+CUST-7365,Female,No,Yes,Yes,62,Yes,No,"Fiber optic",No,"No internet service",Yes,Yes,"No internet service",No,"One year",Yes,"Electronic check",74.65,4633.35,No,Clean
+CUST-7366,Male,No,No,Yes,55,Yes,"No phone service","Fiber optic",No,No,Yes,Yes,"No internet service",No,Month-to-month,No,"Mailed check",88.38,4856.47,No,Clean
+CUST-7367,Male,No,Yes,No,52,Yes,No,"Fiber optic",Yes,"No internet service",No,"No internet service","No internet service","No internet service","Two year",Yes,"Bank transfer",78.56,4085.12,No,Clean
+CUST-7368,Female,No,Yes,Yes,8,Yes,"No phone service",DSL,No,No,No,No,Yes,Yes,"One year",Yes,"Mailed check",72.22,576.44,No,Clean
+CUST-7369,Female,No,No,Yes,2,Yes,"No phone service",DSL,"No internet service",No,"No internet service",Yes,Yes,Yes,Month-to-month,No,"Electronic check",65.71,121.89,No,Clean
+CUST-7370,Female,No,Yes,Yes,65,Yes,"No phone service",DSL,No,"No internet service","No internet service",Yes,"No internet service",No,Month-to-month,No,"Bank transfer",54.12,3518.74,Yes,Clean
+CUST-7371,Male,No,No,Yes,66,Yes,"No phone service",DSL,Yes,Yes,No,No,"No internet service",No,"Two year",Yes,"Bank transfer",55.76,3682.86,No,Clean
+CUST-7372,Male,No,Yes,No,49,Yes,"No phone service","Fiber optic","No internet service",No,"No internet service",Yes,Yes,Yes,Month-to-month,Yes,"Bank transfer",87.16,4280.51,Yes,Clean
+CUST-7373,Male,No,Yes,No,9,Yes,Yes,"Fiber optic",No,Yes,"No internet service",Yes,"No internet service",Yes,"One year",Yes,"Credit card",101.63,906.08,No,Clean
+CUST-7374,Female,Yes,Yes,No,0,Yes,Yes,DSL,Yes,No,Yes,"No internet service",Yes,"No internet service",Month-to-month,No,"Mailed check",76.72,0.98,No,Clean
+CUST-7375,Female,No,No,No,26,Yes,Yes,DSL,"No internet service",Yes,Yes,"No internet service","No internet service",Yes,Month-to-month,Yes,"Mailed check",74.75,1948.93,Yes,Clean
+CUST-7376,Female,No,Yes,Yes,47,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Bank transfer",30.82,1451.86,No,Clean
+CUST-7377,Male,No,Yes,Yes,41,Yes,"No phone service",DSL,No,"No internet service","No internet service",No,Yes,No,Month-to-month,No,"Mailed check",56.74,2324.91,Yes,Clean
+CUST-7378,Male,No,No,No,7,Yes,"No phone service",DSL,"No internet service","No internet service",Yes,Yes,No,Yes,"One year",No,"Bank transfer",68.40,488.10,No,Clean
+CUST-7379,Male,Yes,No,No,36,Yes,Yes,"Fiber optic",Yes,"No internet service",Yes,No,"No internet service","No internet service",Month-to-month,No,"Mailed check",95.84,3442.45,No,Clean
+CUST-7380,Male,No,Yes,Yes,0,Yes,No,"Fiber optic",No,Yes,No,No,"No internet service",No,"Two year",Yes,"Credit card",88.85,0.00,Yes,Clean
+CUST-7381,Male,No,No,No,48,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Mailed check",27.81,1325.16,No,Clean
+CUST-7382,Male,No,Yes,No,27,Yes,No,"Fiber optic","No internet service","No internet service",Yes,"No internet service",No,Yes,"Two year",Yes,"Mailed check",87.84,2372.49,No,Clean
+CUST-7383,Female,No,No,Yes,42,No,"No phone service","Fiber optic","No internet service",No,"No internet service",No,No,"No internet service",Month-to-month,No,"Credit card",69.59,2913.30,No,Clean
+CUST-7384,Male,Yes,Yes,No,11,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",27.39,298.89,No,Clean
+CUST-7385,Male,No,Yes,Yes,0,No,"No phone service",DSL,Yes,No,Yes,Yes,No,"No internet service","Two year",Yes,"Credit card",67.88,6.41,No,Clean
+CUST-7386,Male,Yes,Yes,No,6,Yes,No,DSL,No,No,"No internet service",Yes,Yes,Yes,Month-to-month,Yes,"Electronic check",72.42,431.29,Yes,Clean
+CUST-7387,Male,No,Yes,No,31,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Credit card",28.35,887.37,Yes,Clean
+CUST-7388,Female,No,No,Yes,2,Yes,"No phone service",DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,"Credit card",87.78,171.64,No,Clean
+CUST-7389,Female,No,Yes,No,2,No,"No phone service","Fiber optic",Yes,No,"No internet service",No,Yes,Yes,Month-to-month,Yes,"Mailed check",72.03,148.14,Yes,Clean
+CUST-7390,Female,No,No,No,29,No,"No phone service",DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,"Credit card",52.56,1519.93,Yes,Clean
+CUST-7391,Male,No,No,No,60,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,"No internet service",Yes,"No internet service",Month-to-month,Yes,"Bank transfer",92.29,5542.71,Yes,Clean
+CUST-7392,Male,No,Unknown,Yes,1,Yes,No,DSL,"No internet service","No internet service",No,"No internet service",Yes,No,"Two year",No,"Electronic check",57.20,49.12,Yes,Clean
+CUST-7393,Male,No,Yes,No,11,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",20.00,221.98,No,Clean
+CUST-7394,Male,No,No,Yes,10,Yes,Yes,"Fiber optic",Yes,No,No,Yes,"No internet service",Yes,Month-to-month,Yes,"Mailed check",93.21,928.67,No,Clean
+CUST-7395,Female,No,Yes,No,12,Yes,No,DSL,"No internet service",No,"No internet service","No internet service","No internet service",Yes,Month-to-month,Yes,"Bank transfer",63.95,765.85,No,Clean
+CUST-7396,Male,No,No,No,63,Yes,"No phone service","Fiber optic",No,"No internet service",Yes,Yes,No,No,Month-to-month,No,"Electronic check",77.56,4893.09,No,Clean
+CUST-7397,Female,No,No,Yes,62,Yes,No,"Fiber optic",No,"No internet service",No,Yes,Yes,No,Month-to-month,Yes,"Electronic check",83.27,5156.48,No,Clean
+CUST-7398,Male,No,Yes,Yes,38,Yes,"No phone service","Fiber optic",No,No,"No internet service","No internet service",Yes,No,Month-to-month,No,"Credit card",80.49,3062.78,Yes,Clean
+CUST-7399,Female,Yes,Yes,No,2,Yes,No,DSL,Yes,"No internet service",No,No,"No internet service",No,Month-to-month,Yes,"Mailed check",49.92,102.77,Yes,Clean
+CUST-7400,Male,No,No,Yes,59,Yes,"No phone service","Fiber optic","No internet service",Yes,No,No,Yes,"No internet service",Month-to-month,Yes,"Bank transfer",90.56,5347.96,No,Clean
+CUST-7401,Female,No,No,Yes,71,Yes,Yes,DSL,"No internet service",No,No,Yes,"No internet service",No,Month-to-month,Yes,"Credit card",61.60,4381.82,No,Clean
+CUST-7402,Female,No,Yes,Yes,41,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",27.14,1111.88,Yes,Clean
+CUST-7403,Female,No,No,Yes,62,Yes,No,"Fiber optic","No internet service",No,No,Yes,Yes,"No internet service","Two year",Yes,"Mailed check",95.33,5901.58,Yes,Clean
+CUST-7404,Unknown,Yes,Yes,No,16,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",27.84,450.18,No,Clean
+CUST-7405,Female,No,Yes,No,2,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Bank transfer",31.99,61.52,No,Clean
+CUST-7406,Female,Yes,Unknown,Yes,19,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",29.94,570.89,Yes,Clean
+CUST-7407,Female,No,Yes,No,7,No,"No phone service",DSL,"No internet service",Yes,"No internet service",No,No,"No internet service",Month-to-month,Yes,"Credit card",49.31,354.85,No,Clean
+CUST-7408,Female,No,Yes,Yes,6,Yes,No,DSL,Yes,No,No,"No internet service",Yes,"No internet service",Month-to-month,No,"Mailed check",63.97,384.43,No,Clean
+CUST-7409,Female,No,Yes,Yes,39,Yes,"No phone service","Fiber optic","No internet service",No,Yes,"No internet service","No internet service",Yes,Month-to-month,No,"Mailed check",79.29,3086.33,Yes,Clean
+CUST-7410,Male,No,No,Yes,43,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,Yes,"No internet service",Yes,"Two year",Yes,"Bank transfer",103.98,4465.55,No,Clean
+CUST-7411,Female,Yes,Yes,Yes,8,Yes,No,"Fiber optic",No,Yes,Yes,Yes,No,"No internet service","Two year",No,"Electronic check",83.51,662.02,Yes,Clean
+CUST-7412,Male,No,No,Yes,38,Yes,Yes,"Fiber optic",Yes,No,No,No,No,No,Month-to-month,No,"Mailed check",76.15,2893.70,Yes,Clean
+CUST-7413,Female,No,Yes,Yes,53,Yes,No,DSL,"No internet service",No,Yes,Yes,"No internet service",Yes,Month-to-month,Yes,"Credit card",76.18,4031.17,Yes,Clean
+CUST-7414,Female,Yes,Yes,Yes,59,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,"Credit card",79.85,4711.79,No,Clean
+CUST-7415,Male,No,No,No,62,Yes,No,DSL,"No internet service",No,No,No,No,No,"One year",Yes,"Mailed check",52.69,3261.17,No,Clean
+CUST-7416,Female,No,No,No,34,Yes,Yes,DSL,Yes,"No internet service",Yes,No,Yes,Yes,Month-to-month,No,"Credit card",63.78,2176.71,No,Clean
+CUST-7417,Male,No,Yes,No,58,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Electronic check",28.09,1629.22,Yes,Clean
+CUST-7419,Female,No,Yes,No,0,No,"No phone service",DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,"Bank transfer",61.62,8.05,No,Clean
+CUST-7420,Male,Yes,No,No,35,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Electronic check",34.46,1204.31,Yes,Clean
+CUST-7421,Female,No,No,No,21,Yes,No,"Fiber optic",Yes,"No internet service",Yes,Yes,No,"No internet service","One year",Yes,"Mailed check",93.99,1964.12,No,Clean
+CUST-7422,Male,No,Yes,Yes,7,Yes,No,DSL,Yes,Yes,Yes,Yes,"No internet service",No,"One year",Yes,"Mailed check",68.51,469.62,No,Clean
+CUST-7423,Male,No,No,No,66,Yes,No,"Fiber optic","No internet service","No internet service",No,No,No,No,"One year",Yes,"Electronic check",81.88,5405.12,Yes,Clean
+CUST-7424,Female,Yes,No,Yes,3,Yes,No,DSL,No,"No internet service",Yes,"No internet service",No,"No internet service","Two year",Yes,"Electronic check",56.87,167.24,Yes,Clean
+CUST-7425,Male,No,Yes,Yes,15,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",26.25,398.69,No,Clean
+CUST-7426,Male,No,Yes,No,53,Yes,"No phone service",DSL,"No internet service","No internet service",Yes,Yes,No,"No internet service",Month-to-month,No,"Mailed check",64.74,3423.81,Yes,Clean
+CUST-7427,Female,No,No,Yes,3,Yes,No,"Fiber optic",No,Yes,No,No,"No internet service",Yes,Month-to-month,Yes,"Mailed check",86.51,264.03,Yes,Clean
+CUST-7428,Male,No,Yes,Yes,2,Yes,No,DSL,Yes,"No internet service",Yes,Yes,No,Yes,Month-to-month,No,"Electronic check",69.80,140.95,Yes,Clean
+CUST-7429,Female,No,No,Yes,16,Yes,"No phone service","Fiber optic","No internet service",No,No,Yes,No,Yes,Month-to-month,Yes,"Electronic check",79.13,1267.40,No,Clean
+CUST-7430,Male,Yes,No,Yes,25,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",30.09,750.90,No,Clean
+CUST-7431,Male,No,Yes,No,71,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Electronic check",20.00,1417.42,No,Clean
+CUST-7432,Female,No,No,Yes,71,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,"No internet service","No internet service",Yes,Month-to-month,No,"Mailed check",85.27,6047.71,No,Clean
+CUST-7433,Female,No,Yes,No,41,Yes,Yes,"Fiber optic",Yes,No,"No internet service",No,"No internet service","No internet service","Two year",No,"Bank transfer",69.70,2857.70,No,Clean
+CUST-7434,Male,No,No,Yes,3,Yes,No,"Fiber optic","No internet service",No,Yes,No,"No internet service","No internet service","Two year",Yes,"Bank transfer",84.28,251.89,Yes,Clean
+CUST-7435,Male,No,No,Yes,8,Yes,"No phone service","Fiber optic",Yes,"No internet service",No,Yes,"No internet service",Yes,Month-to-month,No,"Credit card",90.48,714.06,No,Clean
+CUST-7436,Female,No,Yes,Yes,11,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Credit card",20.00,221.58,Yes,Clean
+CUST-7437,Female,No,No,No,38,No,"No phone service",DSL,"No internet service","No internet service",Yes,Yes,Yes,Yes,"Two year",No,"Electronic check",63.22,2400.63,No,Clean
+CUST-7438,Female,No,Yes,No,65,Yes,"No phone service","Fiber optic","No internet service",Yes,No,No,No,"No internet service","Two year",Yes,"Mailed check",87.96,5724.74,No,Clean
+CUST-7439,Female,No,No,Yes,5,Yes,"No phone service",DSL,Yes,No,No,No,No,Yes,"Two year",Yes,"Electronic check",70.98,352.70,No,Clean
+CUST-7440,Male,Yes,No,No,0,Yes,No,DSL,"No internet service",Yes,"No internet service","No internet service",No,No,"Two year",Yes,"Credit card",51.26,1.59,No,Clean
+CUST-7441,Male,Yes,Yes,No,36,No,"No phone service",DSL,No,No,No,Yes,"No internet service",No,"Two year",Yes,"Electronic check",44.82,1605.75,Yes,Clean
+CUST-7442,Male,No,Yes,No,3,Yes,No,DSL,No,Yes,No,"No internet service",No,"No internet service",Month-to-month,No,"Bank transfer",55.84,168.46,Yes,Clean
+CUST-7443,Male,No,No,No,52,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",20.00,1044.66,No,Clean
+CUST-7444,Female,No,Yes,Yes,1,No,"No phone service","Fiber optic",Yes,No,No,"No internet service",No,Yes,Month-to-month,Yes,"Electronic check",86.43,95.98,Yes,Clean
+CUST-7445,Unknown,No,No,Yes,2,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",28.40,65.12,Yes,Clean
+CUST-7446,Male,No,Yes,Yes,59,Yes,Yes,"Fiber optic",Yes,No,Yes,"No internet service",Yes,Yes,Month-to-month,Yes,"Mailed check",99.25,5846.29,No,Clean
+CUST-7447,Female,No,No,No,35,Yes,Yes,"Fiber optic",Yes,Yes,Yes,"No internet service","No internet service","No internet service","One year",Yes,"Bank transfer",90.30,3165.75,No,Clean
+CUST-7448,Female,No,No,No,60,Yes,No,"Fiber optic","No internet service","No internet service",No,Yes,No,"No internet service","Two year",Yes,"Credit card",80.37,4831.61,Yes,Clean
+CUST-7449,Female,No,Yes,Yes,3,Yes,"No phone service","Fiber optic",Yes,Yes,Yes,Yes,No,Yes,"Two year",No,"Mailed check",83.13,257.54,No,Clean
+CUST-7450,Female,No,Yes,No,4,Yes,No,"Fiber optic",Yes,No,Yes,No,No,"No internet service","Two year",Yes,"Credit card",78.43,309.82,Yes,Clean
+CUST-7451,Male,No,No,No,60,Yes,Yes,DSL,"No internet service",Yes,Yes,Yes,"No internet service",No,"Two year",Yes,"Mailed check",59.07,3541.00,No,Clean
+CUST-7452,Female,No,Yes,No,66,Yes,"No phone service","Fiber optic",Yes,No,Yes,No,"No internet service","No internet service","One year",Yes,"Credit card",95.76,6320.12,Yes,Clean
+CUST-7453,Male,No,Yes,No,70,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,No,No,Yes,"Two year",No,"Electronic check",98.30,6881.21,Yes,Clean
+CUST-7454,Male,No,No,No,9,No,"No phone service",DSL,Yes,Yes,Yes,No,No,"No internet service",Month-to-month,Yes,"Credit card",63.50,571.74,No,Clean
+CUST-7455,Female,No,Yes,Yes,3,Yes,Yes,"Fiber optic",Yes,Yes,Yes,No,Yes,"No internet service","One year",No,"Credit card",109.16,326.25,No,Clean
+CUST-7456,Female,No,No,Yes,71,Yes,"No phone service","Fiber optic",Yes,Yes,Yes,No,Yes,"No internet service",Month-to-month,No,"Bank transfer",97.29,6908.56,Yes,Clean
+CUST-7457,Male,No,Yes,No,12,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Credit card",29.87,360.67,No,Clean
+CUST-7458,Female,No,No,Yes,17,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Credit card",25.58,436.67,No,Clean
+CUST-7459,Male,No,No,No,55,Yes,"No phone service",DSL,No,Yes,Yes,Yes,Yes,"No internet service","One year",No,"Bank transfer",78.36,4313.62,No,Clean
+CUST-7460,Female,No,Yes,Yes,55,Yes,Yes,"Fiber optic","No internet service",No,No,No,No,Yes,Month-to-month,No,"Electronic check",71.42,3931.20,Yes,Clean
+CUST-7461,Male,No,No,Yes,67,Yes,No,DSL,No,Yes,No,No,"No internet service","No internet service","One year",No,"Bank transfer",58.79,3945.07,No,Clean
+CUST-7462,Male,Yes,No,No,31,Yes,Yes,"Fiber optic",Yes,"No internet service","No internet service",No,No,Yes,Month-to-month,No,"Credit card",83.84,2596.54,Yes,Clean
+CUST-7463,Female,No,Yes,Yes,65,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,"No internet service",Month-to-month,Yes,"Electronic check",71.29,4625.03,No,Clean
+CUST-7464,Male,Yes,No,No,7,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",33.93,232.14,No,Clean
+CUST-7465,Male,No,No,No,32,Yes,No,DSL,"No internet service",Yes,Yes,Yes,Yes,"No internet service","Two year",No,"Electronic check",73.91,2374.09,No,Clean
+CUST-7466,Female,Yes,No,Yes,38,Yes,No,DSL,No,Yes,Yes,Yes,Yes,"No internet service",Month-to-month,Yes,"Mailed check",73.65,2798.70,No,Clean
+CUST-7467,Female,No,No,Yes,45,Yes,"No phone service",DSL,Yes,No,Yes,Yes,No,Yes,"Two year",Yes,"Credit card",67.90,3049.32,No,Clean
+CUST-7468,Female,Yes,No,No,22,Yes,Yes,"Fiber optic",No,"No internet service",Yes,"No internet service",No,Yes,Month-to-month,No,"Bank transfer",82.49,1810.44,Yes,Clean
+CUST-7469,Male,No,No,No,3,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",34.47,99.36,No,Clean
+CUST-7470,Female,No,Yes,Yes,56,Yes,No,DSL,Yes,"No internet service","No internet service",Yes,"No internet service","No internet service",Month-to-month,Yes,"Bank transfer",61.76,3452.96,No,Clean
+CUST-7471,Female,No,Unknown,No,51,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Electronic check",31.22,1593.68,No,Clean
+CUST-7472,Male,No,Yes,No,62,No,"No phone service",DSL,No,Yes,"No internet service",No,Yes,"No internet service",Month-to-month,Yes,"Credit card",52.83,3270.97,Yes,Clean
+CUST-7473,Female,No,Yes,No,25,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",20.00,496.85,No,Clean
+CUST-7474,Male,No,Yes,No,7,Yes,Yes,"Fiber optic",Yes,Yes,"No internet service",Yes,"No internet service","No internet service",Month-to-month,Yes,"Electronic check",106.39,734.90,Yes,Clean
+CUST-7475,Female,No,No,Yes,48,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Mailed check",30.09,1447.15,No,Clean
+CUST-7476,Female,No,Yes,No,51,Yes,No,"Fiber optic",No,No,No,No,Yes,No,Month-to-month,Yes,"Credit card",80.49,4111.01,Yes,Clean
+CUST-7477,Male,No,Yes,Yes,8,Yes,Yes,DSL,No,Yes,Yes,Yes,No,"No internet service",Month-to-month,No,"Credit card",61.49,497.57,No,Clean
+CUST-7478,Female,No,Yes,No,15,Yes,No,DSL,No,"No internet service",Yes,Yes,"No internet service",No,Month-to-month,No,"Credit card",66.31,996.78,No,Clean
+CUST-7479,Male,No,Yes,Yes,0,Yes,Yes,DSL,Yes,"No internet service",Yes,Yes,No,Yes,"One year",Yes,"Credit card",77.62,5.27,No,Clean
+CUST-7480,Male,No,No,No,0,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",27.45,6.21,Yes,Clean
+CUST-7481,Female,No,No,No,48,Yes,"No phone service","Fiber optic",Yes,No,"No internet service",Yes,"No internet service",No,Month-to-month,No,"Bank transfer",90.39,4334.87,No,Clean
+CUST-7482,Unknown,No,No,Yes,71,Yes,No,"Fiber optic",Yes,"No internet service",Yes,"No internet service",No,No,"One year",No,"Bank transfer",85.87,6102.88,Yes,Clean
+CUST-7483,Male,Yes,Yes,No,14,Yes,No,DSL,No,"No internet service",No,Yes,"No internet service","No internet service","One year",Yes,"Bank transfer",49.80,706.16,No,Clean
+CUST-7484,Female,No,Yes,No,61,No,"No phone service","Fiber optic",No,"No internet service","No internet service",Yes,"No internet service",No,"Two year",Yes,"Bank transfer",77.51,4733.15,No,Clean
+CUST-7486,Male,No,Yes,Yes,31,Yes,"No phone service",DSL,Yes,Yes,"No internet service","No internet service",No,Yes,Month-to-month,Yes,"Credit card",62.66,1951.40,No,Clean
+CUST-7487,Female,No,No,No,48,Yes,No,"Fiber optic",Yes,"No internet service",No,"No internet service","No internet service",No,Month-to-month,Yes,"Bank transfer",76.37,3661.38,No,Clean
+CUST-7488,Male,No,Yes,No,57,Yes,No,DSL,"No internet service",No,No,No,No,No,Month-to-month,Yes,"Bank transfer",53.58,3062.32,Yes,Clean
+CUST-7489,Female,No,Yes,No,47,Yes,"No phone service","Fiber optic",No,Yes,No,"No internet service",No,No,"Two year",No,"Credit card",77.41,3641.54,No,Clean
+CUST-7490,Female,No,Yes,Yes,3,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Credit card",28.96,87.16,No,Clean
+CUST-7491,Male,No,Yes,Yes,0,Yes,Yes,DSL,"No internet service","No internet service","No internet service",No,Yes,Yes,"One year",No,"Electronic check",63.59,0.00,No,Clean
+CUST-7492,Female,No,No,Yes,44,Yes,"No phone service","Fiber optic",No,"No internet service","No internet service","No internet service",Yes,"No internet service","Two year",No,"Bank transfer",82.44,3632.03,No,Clean
+CUST-7493,Male,No,Yes,Yes,2,Yes,Yes,DSL,"No internet service","No internet service",Yes,Yes,"No internet service",No,Month-to-month,No,"Bank transfer",53.53,108.86,Yes,Clean
+CUST-7494,Male,No,Yes,No,65,Yes,Yes,DSL,No,No,"No internet service",No,"No internet service",Yes,"Two year",Yes,"Credit card",47.19,3069.56,Yes,Clean
+CUST-7495,Female,No,Yes,Yes,0,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",20.00,4.69,Yes,Clean
+CUST-7496,Female,Yes,Yes,Yes,37,Yes,"No phone service","Fiber optic",No,"No internet service",No,No,"No internet service",Yes,Month-to-month,No,Unknown,86.84,3217.96,Yes,Clean
+CUST-7497,Female,No,Yes,No,7,Yes,No,DSL,"No internet service",Yes,"No internet service","No internet service","No internet service","No internet service","Two year",No,"Bank transfer",57.28,392.71,No,Clean
+CUST-7498,Male,No,No,Yes,72,Yes,Yes,DSL,"No internet service",Yes,Yes,Yes,"No internet service",No,"Two year",Yes,"Bank transfer",70.66,5083.76,No,Clean
+CUST-7499,Female,Yes,Yes,Yes,66,Yes,No,DSL,Yes,Yes,No,Yes,"No internet service",No,"Two year",Yes,"Credit card",67.62,4456.53,No,Clean
+CUST-7500,Female,No,Yes,Unknown,46,No,"No phone service","Fiber optic",Yes,Yes,"No internet service","No internet service","No internet service","No internet service","One year",Yes,"Credit card",77.04,3537.72,No,Clean
+CUST-7501,Male,No,Yes,Yes,1,No,"No phone service",DSL,"No internet service",Yes,"No internet service",Yes,"No internet service",No,"One year",No,"Bank transfer",57.86,49.19,No,Clean
+CUST-7502,Male,Yes,Yes,No,33,Yes,"No phone service","Fiber optic",Yes,Yes,"No internet service","No internet service",Yes,"No internet service",Month-to-month,Yes,"Electronic check",87.44,2885.86,Yes,Clean
+CUST-7503,Male,No,Yes,No,5,Yes,"No phone service",DSL,No,Yes,"No internet service",Yes,"No internet service",No,"One year",Yes,"Bank transfer",66.98,338.34,Yes,Clean
+CUST-7504,Female,No,Yes,Yes,53,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",30.40,1621.07,No,Clean
+CUST-7505,Male,No,Yes,Yes,15,Yes,Yes,"Fiber optic","No internet service",No,No,Yes,"No internet service","No internet service",Month-to-month,Yes,"Mailed check",69.26,1030.82,Yes,Clean
+CUST-7506,Male,No,No,Yes,37,Yes,No,"Fiber optic",No,"No internet service","No internet service",Yes,No,Yes,"Two year",Yes,"Bank transfer",85.93,3171.02,No,"Duplicate ID - Conflicting Values"
+CUST-7507,Male,Yes,Yes,Yes,4,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",33.27,140.33,No,Clean
+CUST-7508,Female,No,Yes,No,17,Yes,"No phone service",DSL,"No internet service",Yes,"No internet service","No internet service","No internet service",Yes,"Two year",No,"Mailed check",64.02,1094.07,No,Clean
+CUST-7509,Female,No,Yes,Yes,72,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Credit card",28.45,2051.84,No,Clean
+CUST-7510,Male,No,Yes,No,22,Yes,No,DSL,"No internet service",No,No,No,Yes,No,Month-to-month,No,"Credit card",54.27,1199.72,Yes,Clean
+CUST-7511,Male,Yes,Yes,No,69,Yes,Yes,"Fiber optic","No internet service",No,"No internet service",Yes,Yes,"No internet service","One year",Yes,"Bank transfer",84.99,5860.83,Yes,Clean
+CUST-7512,Male,No,No,No,69,Yes,Yes,"Fiber optic",Yes,Yes,Yes,"No internet service","No internet service","No internet service","One year",No,"Credit card",88.46,6106.84,No,Clean
+CUST-7513,Male,No,No,No,5,Yes,Yes,DSL,No,"No internet service",Yes,Yes,No,No,"One year",Yes,"Bank transfer",71.77,368.19,No,Clean
+CUST-7514,Female,No,Yes,No,67,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Mailed check",33.83,2264.44,No,Clean
+CUST-7515,Male,No,Yes,Yes,40,Yes,"No phone service","Fiber optic",Yes,"No internet service",Yes,Yes,No,No,"Two year",Yes,"Mailed check",98.54,3945.90,No,Clean
+CUST-7517,Female,No,No,No,71,Yes,No,"Fiber optic","No internet service",Yes,No,No,"No internet service",Yes,"One year",No,"Credit card",79.88,5675.83,Yes,Clean
+CUST-7518,Male,No,No,No,0,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Mailed check",31.93,9.43,No,Clean
+CUST-7519,Male,No,No,No,41,Yes,Yes,"Fiber optic",Yes,No,No,No,Yes,"No internet service",Month-to-month,Yes,"Electronic check",77.69,3178.11,No,Clean
+CUST-7520,Female,No,Yes,No,47,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",25.44,1202.38,No,Clean
+CUST-7521,Female,Yes,No,Yes,3,Yes,Yes,DSL,No,"No internet service","No internet service",Yes,Yes,Yes,"One year",No,Unknown,68.26,205.79,Yes,Clean
+CUST-7522,Female,Yes,No,No,31,Yes,Yes,"Fiber optic",No,Yes,No,Yes,No,"No internet service","Two year",Yes,"Electronic check",93.95,2912.98,No,Clean
+CUST-7523,Male,No,No,No,62,Yes,"No phone service","Fiber optic",Yes,"No internet service",Yes,"No internet service",Yes,"No internet service",Month-to-month,Yes,"Electronic check",94.31,5840.11,No,Clean
+CUST-7524,Female,No,Yes,Yes,58,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",30.29,1759.25,Yes,Clean
+CUST-7525,Male,No,No,Yes,24,Yes,Yes,DSL,No,No,No,Yes,"No internet service","No internet service","Two year",No,"Electronic check",60.03,1447.63,No,Clean
+CUST-7526,Female,No,Yes,Yes,3,Yes,"No phone service","Fiber optic","No internet service","No internet service",Yes,No,No,"No internet service","Two year",Yes,"Mailed check",85.50,265.24,No,Clean
+CUST-7527,Female,No,No,Yes,72,Yes,Yes,"Fiber optic",Yes,"No internet service",No,Yes,"No internet service",Yes,"One year",No,"Mailed check",89.94,6473.68,No,Clean
+CUST-7528,Female,No,Yes,No,25,Yes,No,DSL,"No internet service",Yes,"No internet service","No internet service",Yes,Yes,Month-to-month,Yes,"Electronic check",73.96,1850.48,No,Clean
+CUST-7529,Female,No,Yes,Yes,44,Yes,Yes,"Fiber optic",No,"No internet service",No,No,Yes,"No internet service",Month-to-month,Yes,"Bank transfer",78.45,3447.03,No,Clean
+CUST-7530,Male,No,No,No,2,Yes,Yes,"Fiber optic",Yes,Yes,"No internet service",Yes,Yes,"No internet service",Month-to-month,Yes,"Credit card",102.48,205.19,Yes,Clean
+CUST-7531,Male,No,Yes,Unknown,14,Yes,"No phone service",DSL,Yes,Yes,No,Yes,No,Yes,"One year",Yes,"Electronic check",71.97,1000.79,No,Clean
+CUST-7532,Male,No,Yes,No,7,Yes,No,"Fiber optic",No,"No internet service",Yes,"No internet service","No internet service",Yes,Month-to-month,Yes,"Bank transfer",91.71,644.97,No,Clean
+CUST-7533,Female,No,No,Yes,69,Yes,No,"Fiber optic",Yes,Yes,No,No,Yes,No,"One year",Yes,"Mailed check",83.39,5745.95,No,Clean
+CUST-7534,Female,Yes,Yes,Yes,41,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",30.11,1232.57,Yes,Clean
+CUST-7535,Male,No,No,No,9,Yes,"No phone service","Fiber optic",No,"No internet service",Yes,No,No,"No internet service","One year",No,"Bank transfer",77.07,691.10,Yes,Clean
+CUST-7536,Male,No,No,Yes,41,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Bank transfer",26.23,1076.14,No,Clean
+CUST-7537,Female,Yes,No,No,4,Yes,No,"Fiber optic",No,No,Yes,"No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",71.01,286.93,Yes,Clean
+CUST-7538,Male,Yes,No,No,37,Yes,"No phone service",DSL,No,No,Yes,No,"No internet service",No,Month-to-month,Yes,"Credit card",56.79,2096.12,Yes,Clean
+CUST-7539,Female,No,Yes,No,3,Yes,"No phone service","Fiber optic",Yes,Yes,No,Yes,Yes,Yes,"Two year",Yes,"Mailed check",116.06,350.50,Yes,Clean
+CUST-7540,Male,Yes,No,No,57,Yes,Yes,DSL,No,"No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Electronic check",50.74,2897.35,No,Clean
+CUST-7541,Male,No,Yes,No,7,Yes,No,"Fiber optic",No,No,"No internet service",No,Yes,No,Month-to-month,No,"Bank transfer",71.74,493.88,No,Clean
+CUST-7542,Female,No,Yes,No,2,Yes,"No phone service","Fiber optic",No,"No internet service",Yes,No,"No internet service","No internet service",Month-to-month,No,"Mailed check",83.95,160.89,Yes,Clean
+CUST-7543,Male,No,No,No,1,Yes,Yes,DSL,"No internet service",Yes,No,No,"No internet service","No internet service","Two year",Yes,"Bank transfer",62.82,65.99,Yes,Clean
+CUST-7544,Male,No,No,Yes,56,Yes,No,"Fiber optic",No,"No internet service",No,"No internet service",No,Yes,Month-to-month,Yes,"Mailed check",76.86,4313.72,No,Clean
+CUST-7545,Male,No,Yes,Yes,39,Yes,"No phone service",DSL,"No internet service",No,No,"No internet service",Yes,No,"Two year",Yes,"Mailed check",50.66,1967.99,No,Clean
+CUST-7546,Male,No,Yes,No,3,Yes,No,"Fiber optic",Yes,Yes,No,"No internet service",No,Yes,Month-to-month,Yes,"Electronic check",96.17,288.51,Yes,Clean
+CUST-7547,Male,No,Yes,Yes,38,Yes,Yes,DSL,No,Yes,Yes,"No internet service",No,"No internet service","Two year",Yes,"Bank transfer",75.36,2863.29,No,Clean
+CUST-7548,Female,No,No,No,2,Yes,Yes,"Fiber optic",Yes,"No internet service",Yes,"No internet service","No internet service","No internet service","Two year",Yes,"Credit card",99.32,202.44,Yes,Clean
+CUST-7549,Male,No,Yes,No,23,Yes,Yes,DSL,Yes,No,"No internet service","No internet service",Yes,No,Month-to-month,Yes,"Electronic check",67.97,1565.48,Yes,Clean
+CUST-7550,Male,No,Yes,No,27,Yes,"No phone service","Fiber optic","No internet service",Yes,Yes,No,"No internet service","No internet service",Month-to-month,No,"Credit card",91.35,2464.76,No,Clean
+CUST-7551,Female,No,Yes,No,1,Yes,No,DSL,No,"No internet service",Yes,No,"No internet service","No internet service","One year",Yes,"Credit card",49.22,56.53,No,Clean
+CUST-7552,Male,No,No,Yes,40,No,"No phone service",DSL,"No internet service","No internet service","No internet service",No,No,"No internet service","Two year",Yes,"Credit card",46.06,1851.26,No,Clean
+CUST-7553,Female,No,No,No,49,Yes,"No phone service","Fiber optic",Yes,Yes,"No internet service",Yes,No,Yes,Month-to-month,Yes,"Bank transfer",84.98,4157.77,Yes,Clean
+CUST-7554,Male,No,Yes,No,17,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,"Mailed check",62.44,1056.17,No,Clean
+CUST-7555,Female,No,Yes,No,62,Yes,Yes,"Fiber optic",Yes,"No internet service",No,No,Yes,Yes,Month-to-month,Yes,"Bank transfer",79.75,4949.63,Yes,Clean
+CUST-7556,Female,Yes,Yes,No,0,Yes,Yes,"Fiber optic",Yes,Yes,No,No,"No internet service",No,"One year",No,"Electronic check",83.17,0.00,Yes,Clean
+CUST-7557,Male,No,No,Yes,5,Yes,No,"Fiber optic",Yes,No,"No internet service",Yes,"No internet service",No,Month-to-month,Yes,"Bank transfer",73.34,362.80,Yes,Clean
+CUST-7558,Female,No,Yes,Yes,10,Yes,"No phone service",DSL,"No internet service",Yes,Yes,No,No,"No internet service",Month-to-month,Yes,"Mailed check",67.91,672.29,No,Clean
+CUST-7559,Male,Yes,Yes,Yes,25,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",26.25,656.25,No,Clean
+CUST-7560,Female,No,Yes,No,2,Yes,"No phone service",DSL,Yes,Yes,No,Yes,"No internet service","No internet service",Month-to-month,No,"Mailed check",70.92,136.60,No,Clean
+CUST-7561,Female,No,Yes,No,39,Yes,"No phone service",DSL,"No internet service",Yes,Yes,No,"No internet service",Yes,Month-to-month,Yes,"Credit card",65.86,2577.53,No,"Duplicate ID - Conflicting Values"
+CUST-7562,Male,No,No,No,16,Yes,Yes,"Fiber optic",Yes,"No internet service",Yes,Yes,"No internet service","No internet service",Month-to-month,No,"Mailed check",87.56,1396.21,Yes,Clean
+CUST-7563,Female,Yes,Yes,No,67,Yes,"No phone service","Fiber optic",No,No,Yes,"No internet service","No internet service",Yes,"Two year",Yes,"Electronic check",81.48,5457.60,No,Clean
+CUST-7564,Male,No,Yes,No,33,No,"No phone service",DSL,"No internet service","No internet service","No internet service",No,Yes,"No internet service",Month-to-month,No,"Credit card",46.76,1539.17,Yes,Clean
+CUST-7565,Male,No,Yes,No,2,Yes,"No phone service",DSL,Yes,"No internet service","No internet service",No,"No internet service",Yes,Month-to-month,Yes,"Bank transfer",71.24,135.11,No,Clean
+CUST-7566,Female,No,No,Yes,1,Yes,Yes,DSL,Yes,No,No,No,"No internet service",Yes,"One year",Yes,"Electronic check",75.04,75.96,Yes,Clean
+CUST-7567,Female,No,Yes,Yes,0,No,"No phone service","Fiber optic",Yes,"No internet service",Yes,Yes,Yes,"No internet service","Two year",No,"Credit card",81.43,0.00,No,Clean
+CUST-7568,Male,No,Yes,No,0,Yes,"No phone service","Fiber optic","No internet service","No internet service",Yes,Yes,Yes,No,Month-to-month,Yes,"Credit card",88.68,3.89,No,Clean
+CUST-7569,Male,No,No,No,57,Yes,"No phone service",DSL,Yes,No,"No internet service","No internet service","No internet service",No,"One year",No,"Bank transfer",64.05,3641.42,No,Clean
+CUST-7570,Male,Yes,Yes,No,60,Yes,"No phone service","Fiber optic","No internet service",No,"No internet service","No internet service",Yes,Yes,Month-to-month,Yes,"Credit card",97.08,5829.30,No,Clean
+CUST-7571,Female,No,Yes,No,1,No,"No phone service","Fiber optic",Yes,"No internet service",No,No,"No internet service",No,"One year",Yes,"Bank transfer",75.41,76.37,No,Clean
+CUST-7572,Male,No,Yes,Yes,1,Yes,"No phone service",DSL,Yes,Yes,"No internet service",No,No,Yes,"Two year",Yes,"Electronic check",69.18,60.79,No,Clean
+CUST-7573,Male,No,Yes,Yes,6,Yes,"No phone service",DSL,Yes,Yes,Yes,"No internet service",Yes,Yes,Month-to-month,Yes,"Bank transfer",88.15,527.60,No,Clean
+CUST-7574,Male,No,Yes,No,32,Yes,Yes,"Fiber optic","No internet service",No,Yes,No,Yes,No,Month-to-month,Yes,"Electronic check",81.28,2604.41,No,Clean
+CUST-7575,Male,No,Yes,Yes,55,No,"No phone service","Fiber optic",Yes,No,No,Yes,Yes,No,"One year",Yes,"Credit card",83.26,4570.69,No,Clean
+CUST-7576,Female,Yes,No,No,71,Yes,Yes,"Fiber optic",Yes,"No internet service","No internet service",No,No,Yes,"Two year",No,"Bank transfer",92.84,6591.61,No,Clean
+CUST-7577,Male,No,No,Yes,50,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",Yes,No,Yes,Month-to-month,No,"Mailed check",95.56,4786.02,No,Clean
+CUST-7578,Female,No,No,Yes,57,Yes,Yes,DSL,No,Yes,"No internet service","No internet service",No,Yes,"One year",Yes,"Credit card",64.95,3699.31,No,Clean
+CUST-7579,Male,Yes,No,Unknown,7,Yes,No,"Fiber optic",Yes,"No internet service",No,No,"No internet service",No,Month-to-month,Yes,"Credit card",78.85,546.08,Yes,Clean
+CUST-7580,Female,No,Yes,No,64,Yes,No,"Fiber optic",Yes,No,No,"No internet service",No,No,Month-to-month,No,"Electronic check",70.10,4477.90,Yes,Clean
+CUST-7581,Male,No,No,Yes,42,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",No,No,No,"One year",Yes,"Electronic check",70.33,2961.14,No,Clean
+CUST-7582,Female,No,Yes,Yes,56,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",No,"No internet service",No,"Two year",Yes,"Bank transfer",70.58,3962.04,No,Clean
+CUST-7583,Male,No,No,No,18,Yes,No,DSL,Yes,Yes,Yes,Yes,No,"No internet service","One year",No,"Credit card",74.65,1337.82,Yes,Clean
+CUST-7584,Male,No,No,Yes,44,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",34.14,1500.80,No,Clean
+CUST-7585,Male,Yes,Yes,Yes,60,Yes,"No phone service","Fiber optic","No internet service",No,No,"No internet service",No,"No internet service",Month-to-month,No,"Mailed check",71.68,4298.31,No,Clean
+CUST-7586,Male,No,No,Yes,7,Yes,"No phone service","Fiber optic",Yes,No,Yes,"No internet service","No internet service",Yes,Month-to-month,No,"Electronic check",79.23,555.29,Yes,Clean
+CUST-7587,Female,Yes,No,Yes,60,Yes,"No phone service","Fiber optic",No,No,No,No,"No internet service",Yes,Month-to-month,Yes,"Bank transfer",66.93,4025.62,No,Clean
+CUST-7588,Female,No,No,No,16,Yes,"No phone service","Fiber optic","No internet service","No internet service",No,"No internet service",Yes,No,Month-to-month,Yes,"Electronic check",73.60,1182.46,No,Clean
+CUST-7589,Male,No,Yes,No,45,Yes,Yes,DSL,"No internet service",No,Yes,No,Yes,Yes,"One year",Yes,"Electronic check",69.45,3133.10,No,Clean
+CUST-7590,Male,No,No,No,31,Yes,Yes,DSL,"No internet service",Yes,Yes,"No internet service",No,"No internet service","One year",Yes,Unknown,64.38,2000.06,No,Clean
+CUST-7591,Male,No,No,Yes,53,No,"No phone service",DSL,"No internet service",Yes,"No internet service","No internet service","No internet service",Yes,Month-to-month,No,"Mailed check",56.35,2978.03,No,Clean
+CUST-7592,Male,No,No,No,6,Yes,"No phone service",DSL,Yes,"No internet service",Yes,Yes,Yes,"No internet service",Month-to-month,No,"Electronic check",71.83,437.34,Yes,Clean
+CUST-7593,Male,No,No,Yes,1,Yes,Yes,DSL,Yes,Yes,Yes,"No internet service","No internet service",Yes,"Two year",Yes,"Bank transfer",80.64,88.45,Yes,Clean
+CUST-7594,Male,No,No,No,34,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Mailed check",28.34,956.97,No,Clean
+CUST-7595,Male,Yes,No,No,25,Yes,Yes,DSL,Yes,Yes,"No internet service",Yes,Yes,"No internet service","One year",No,"Mailed check",64.01,1591.41,No,Clean
+CUST-7596,Male,Yes,Yes,No,11,Yes,"No phone service","Fiber optic",Yes,Yes,No,Yes,No,No,Month-to-month,No,"Mailed check",96.19,1048.52,No,Clean
+CUST-7597,Female,Yes,Yes,Yes,28,Yes,Yes,DSL,No,"No internet service",Yes,No,No,"No internet service","Two year",No,"Mailed check",52.97,1475.58,No,Clean
+CUST-7598,Female,No,Yes,Yes,48,Yes,Yes,"Fiber optic","No internet service","No internet service","No internet service",Yes,No,No,"One year",Yes,"Mailed check",87.25,4179.66,No,Clean
+CUST-7599,Female,No,No,Yes,3,No,"No phone service",DSL,"No internet service",No,No,Yes,Yes,Yes,Month-to-month,No,"Electronic check",51.63,159.35,Yes,Clean
+CUST-7600,Female,No,Yes,Yes,3,Yes,No,DSL,No,No,"No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Bank transfer",51.58,158.73,Yes,Clean
+CUST-7601,Male,No,No,No,3,Yes,Yes,"Fiber optic",Yes,Yes,"No internet service","No internet service",No,Yes,"Two year",Yes,"Bank transfer",87.74,272.15,Yes,Clean
+CUST-7602,Male,No,Yes,No,9,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",25.14,233.97,No,Clean
+CUST-7603,Female,No,No,No,65,Yes,"No phone service","Fiber optic",Yes,"No internet service",Yes,"No internet service",Yes,Yes,"Two year",No,"Mailed check",93.67,6083.57,No,Clean
+CUST-7604,Female,No,No,No,71,Yes,"No phone service","Fiber optic",No,No,"No internet service","No internet service",No,Yes,"One year",Yes,"Bank transfer",85.26,6053.86,No,Clean
+CUST-7605,Male,No,No,Yes,43,Yes,Yes,DSL,No,"No internet service","No internet service","No internet service",Yes,"No internet service","Two year",No,"Electronic check",68.93,2970.15,No,Clean
+CUST-7606,Female,No,Yes,No,40,Yes,Yes,"Fiber optic",Yes,"No internet service",No,"No internet service",Yes,"No internet service",Month-to-month,No,"Credit card",85.30,3408.84,Yes,Clean
+CUST-7607,Male,No,No,No,26,Yes,"No phone service","Fiber optic",Yes,"No internet service",No,No,No,Yes,"One year",Yes,"Mailed check",90.66,2353.35,Yes,Clean
+CUST-7608,Male,No,No,Yes,29,Yes,No,"Fiber optic",No,No,Yes,Yes,No,"No internet service","One year",Yes,"Bank transfer",95.83,2782.22,No,Clean
+CUST-7609,Male,No,No,No,32,Yes,No,"Fiber optic","No internet service","No internet service","No internet service",No,No,No,"Two year",Yes,"Bank transfer",69.96,2229.95,No,Clean
+CUST-7610,Male,No,Yes,Yes,29,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",33.95,984.56,No,Clean
+CUST-7611,Female,No,Yes,Yes,38,Yes,No,"Fiber optic",No,"No internet service",Yes,Yes,Yes,No,Month-to-month,No,"Mailed check",81.00,3078.19,Yes,Clean
+CUST-7612,Male,No,Yes,No,63,Yes,No,"Fiber optic",No,"No internet service",Yes,"No internet service","No internet service",No,Month-to-month,No,"Credit card",89.05,5601.26,No,Clean
+CUST-7613,Female,No,Yes,No,8,Yes,Yes,DSL,"No internet service",No,Yes,No,No,Yes,"Two year",No,"Mailed check",68.23,555.49,No,Clean
+CUST-7614,Female,Yes,Yes,Yes,33,Yes,"No phone service","Fiber optic",Yes,Yes,Yes,"No internet service","No internet service",No,"Two year",Yes,"Credit card",103.38,3418.94,Yes,Clean
+CUST-7615,Female,No,Yes,Yes,66,Yes,"No phone service",DSL,No,"No internet service",Yes,Yes,"No internet service","No internet service","One year",No,"Bank transfer",56.89,3748.64,No,Clean
+CUST-7616,Male,No,No,No,23,Yes,Yes,"Fiber optic","No internet service",Yes,No,"No internet service","No internet service",Yes,"Two year",Yes,"Credit card",72.57,1671.63,Yes,Clean
+CUST-7617,Female,No,Yes,No,11,Yes,No,"Fiber optic",No,No,"No internet service","No internet service","No internet service",Yes,Month-to-month,No,"Electronic check",83.39,922.66,No,Clean
+CUST-7618,Female,No,No,No,59,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",20.00,1174.14,No,Clean
+CUST-7619,Female,No,No,No,67,Yes,No,"Fiber optic","No internet service",Yes,Yes,Yes,No,No,Month-to-month,No,"Bank transfer",96.46,6472.25,No,Clean
+CUST-7620,Male,No,Yes,Yes,7,Yes,No,DSL,"No internet service",No,No,No,No,No,"One year",No,"Mailed check",51.69,353.14,No,Clean
+CUST-7622,Female,No,No,No,50,Yes,Yes,DSL,No,No,Yes,Yes,"No internet service","No internet service",Month-to-month,Yes,"Electronic check",55.05,2748.99,Yes,Clean
+CUST-7623,Female,Yes,Yes,Yes,25,Yes,No,"Fiber optic",No,Yes,No,"No internet service","No internet service",Yes,Month-to-month,No,"Electronic check",88.63,2213.82,No,Clean
+CUST-7624,Male,No,No,Yes,56,Yes,Yes,"Fiber optic","No internet service",No,No,"No internet service","No internet service",Yes,"One year",No,"Bank transfer",73.44,4116.23,No,Clean
+CUST-7625,Male,No,No,No,62,Yes,"No phone service",DSL,Yes,"No internet service",Yes,No,"No internet service","No internet service","Two year",Yes,"Electronic check",68.62,4258.60,No,Clean
+CUST-7626,Male,No,No,Yes,37,No,"No phone service",DSL,Yes,No,No,No,"No internet service","No internet service",Month-to-month,Yes,"Electronic check",49.19,1819.67,Yes,Clean
+CUST-7627,Male,No,Yes,Yes,10,Yes,No,"Fiber optic","No internet service",Yes,"No internet service",Yes,No,Yes,"One year",Yes,"Credit card",91.69,920.65,Yes,Clean
+CUST-7628,Female,No,No,Yes,20,No,"No phone service","Fiber optic",Yes,No,Yes,No,Yes,No,"One year",No,"Bank transfer",85.44,1702.36,No,Clean
+CUST-7629,Female,No,Yes,No,58,Yes,Yes,"Fiber optic",No,Yes,"No internet service","No internet service",No,Yes,Month-to-month,Yes,"Bank transfer",92.50,5372.15,No,Clean
+CUST-7630,Female,No,Yes,Yes,57,Yes,"No phone service","Fiber optic","No internet service","No internet service",Yes,No,Yes,Yes,Month-to-month,No,"Credit card",95.17,5432.94,Yes,Clean
+CUST-7631,Male,No,No,Yes,6,Yes,Yes,"Fiber optic",Yes,"No internet service",Yes,Yes,Yes,"No internet service","Two year",No,"Bank transfer",96.07,573.28,No,Clean
+CUST-7632,Female,No,No,No,10,Yes,"No phone service","Fiber optic","No internet service",No,Yes,No,Yes,"No internet service",Month-to-month,No,"Mailed check",81.11,809.23,Yes,Clean
+CUST-7633,Female,No,Yes,Yes,31,Yes,"No phone service",DSL,Yes,"No internet service","No internet service","No internet service","No internet service",Yes,Month-to-month,Yes,"Electronic check",64.30,1997.77,No,Clean
+CUST-7634,Male,No,Yes,No,33,Yes,No,"Fiber optic",Yes,Yes,Yes,"No internet service",No,No,Month-to-month,Yes,Unknown,96.46,3187.73,No,Clean
+CUST-7635,Male,No,Yes,Yes,42,Yes,"No phone service","Fiber optic",Yes,Yes,"No internet service",Yes,"No internet service","No internet service",Month-to-month,Yes,"Bank transfer",93.27,3919.89,Yes,Clean
+CUST-7636,Male,No,Yes,Yes,63,Yes,No,"Fiber optic","No internet service","No internet service",Yes,Yes,No,Yes,Month-to-month,No,"Bank transfer",94.60,5952.20,No,Clean
+CUST-7637,Male,Yes,Yes,Yes,57,Yes,"No phone service","Fiber optic",Yes,No,"No internet service","No internet service",No,No,"One year",No,"Bank transfer",74.73,4253.28,Yes,Clean
+CUST-7638,Unknown,No,Yes,Yes,3,Yes,No,"Fiber optic","No internet service","No internet service",Yes,"No internet service",No,Yes,Month-to-month,Yes,"Bank transfer",89.08,275.58,Yes,Clean
+CUST-7639,Female,No,No,No,32,Yes,"No phone service","Fiber optic",No,No,"No internet service",No,Yes,"No internet service",Month-to-month,No,"Credit card",76.14,2436.19,Yes,Clean
+CUST-7640,Male,No,No,No,20,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,"No internet service",Month-to-month,Yes,"Electronic check",84.06,1673.18,No,Clean
+CUST-7641,Male,No,Yes,Yes,69,Yes,Yes,"Fiber optic",No,No,Yes,No,Yes,No,"One year",Yes,"Mailed check",87.33,6026.15,No,Clean
+CUST-7642,Male,Yes,No,Yes,46,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Electronic check",32.31,1479.12,Yes,Clean
+CUST-7643,Male,No,Yes,No,71,Yes,"No phone service","Fiber optic",Yes,Yes,No,Yes,"No internet service",No,"Two year",No,"Credit card",106.29,7547.06,No,Clean
+CUST-7644,Female,No,Yes,No,51,Yes,Yes,"Fiber optic",No,No,No,Yes,No,No,Month-to-month,No,"Credit card",75.25,3831.62,Yes,Clean
+CUST-7645,Female,No,Yes,Yes,54,Yes,"No phone service",DSL,"No internet service",Yes,No,Yes,No,No,"One year",No,"Credit card",61.09,3304.47,Yes,Clean
+CUST-7646,Female,Yes,Yes,No,2,Yes,Yes,DSL,No,Yes,Yes,Yes,No,"No internet service","One year",Yes,"Mailed check",64.24,132.06,No,Clean
+CUST-7647,Female,No,Yes,No,37,Yes,Yes,DSL,Yes,No,"No internet service","No internet service",Yes,"No internet service","Two year",No,"Electronic check",55.88,2076.48,No,Clean
+CUST-7648,Female,No,No,Yes,57,Yes,"No phone service",DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,"Credit card",64.61,3686.23,Yes,Clean
+CUST-7649,Male,No,Yes,Yes,34,Yes,Yes,DSL,"No internet service","No internet service","No internet service",No,No,Yes,Month-to-month,No,"Mailed check",61.63,2096.40,No,Clean
+CUST-7650,Female,No,No,Yes,10,Yes,Yes,"Fiber optic",Yes,No,No,No,"No internet service",No,Month-to-month,No,"Mailed check",77.44,784.29,Yes,Clean
+CUST-7651,Male,No,No,No,3,Yes,No,"Fiber optic",No,Yes,No,"No internet service",No,Yes,Month-to-month,No,"Electronic check",84.14,253.04,No,Clean
+CUST-7652,Male,No,Yes,Yes,56,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Credit card",30.75,1721.76,No,Clean
+CUST-7653,Female,No,No,Yes,45,Yes,Yes,"Fiber optic","No internet service",No,No,No,No,"No internet service","One year",No,"Bank transfer",77.71,3503.98,No,Clean
+CUST-7654,Male,No,No,No,1,No,"No phone service","Fiber optic",No,No,"No internet service",Yes,"No internet service","No internet service",Month-to-month,No,"Electronic check",64.62,70.09,Yes,Clean
+CUST-7655,Male,Yes,Yes,No,38,Yes,No,"Fiber optic",Yes,"No internet service","No internet service","No internet service",Yes,"No internet service","One year",Yes,"Mailed check",89.45,3406.99,Yes,Clean
+CUST-7656,Female,No,Yes,Yes,31,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",26.84,829.27,No,Clean
+CUST-7657,Male,No,No,Yes,45,Yes,"No phone service",DSL,No,Yes,No,Yes,Yes,"No internet service","One year",No,"Electronic check",65.07,2922.97,No,Clean
+CUST-7658,Female,No,No,No,17,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,"One year",No,"Credit card",93.01,1589.97,No,Clean
+CUST-7659,Female,No,Yes,No,35,Yes,Yes,"Fiber optic",Yes,"No internet service",No,Yes,Yes,Yes,Month-to-month,No,"Electronic check",97.92,3432.57,Yes,Clean
+CUST-7660,Female,No,No,Yes,51,Yes,Yes,DSL,Yes,No,"No internet service",No,No,No,"One year",Yes,"Electronic check",62.70,3201.58,No,Clean
+CUST-7661,Female,No,No,No,70,Yes,Yes,DSL,"No internet service",No,"No internet service",Yes,"No internet service","No internet service",Month-to-month,No,"Bank transfer",67.90,4745.29,Yes,Clean
+CUST-7662,Male,Yes,No,No,4,No,"No phone service",DSL,"No internet service","No internet service","No internet service",Yes,No,Yes,"One year",Yes,"Electronic check",53.05,211.39,No,Clean
+CUST-7663,Male,Yes,No,Yes,10,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,"Bank transfer",81.00,812.80,No,Clean
+CUST-7664,Male,No,No,No,54,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",27.68,1495.61,No,Clean
+CUST-7665,Male,No,Yes,No,2,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",34.75,75.00,Yes,Clean
+CUST-7666,Male,No,No,No,39,Yes,"No phone service",DSL,Yes,Yes,"No internet service",No,No,Yes,Month-to-month,Yes,"Mailed check",74.67,2922.06,Yes,Clean
+CUST-7667,Male,No,Yes,Yes,25,Yes,"No phone service","Fiber optic",No,"No internet service",No,"No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",74.57,1857.09,Yes,Clean
+CUST-7668,Female,No,Yes,Yes,2,Yes,No,"Fiber optic",No,No,No,"No internet service",Yes,No,"Two year",No,"Electronic check",77.53,155.06,No,Clean
+CUST-7669,Male,No,Yes,Yes,59,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,"One year",No,"Bank transfer",76.54,4510.40,No,Clean
+CUST-7670,Female,No,No,Yes,2,Yes,No,"Fiber optic","No internet service",Yes,Yes,"No internet service",Yes,No,"One year",No,"Electronic check",98.89,204.90,No,Clean
+CUST-7671,Female,No,No,No,5,Yes,No,"Fiber optic","No internet service","No internet service",Yes,No,"No internet service",Yes,Month-to-month,No,"Credit card",77.74,396.22,Yes,Clean
+CUST-7672,Male,No,No,No,24,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,Unknown,32.99,786.28,No,Clean
+CUST-7673,Male,No,Yes,Yes,34,Yes,No,DSL,"No internet service",No,No,No,Yes,"No internet service",Month-to-month,No,"Bank transfer",66.72,2267.85,Yes,Clean
+CUST-7674,Male,No,No,No,18,Yes,"No phone service",DSL,"No internet service","No internet service",No,Yes,Yes,"No internet service",Month-to-month,Yes,"Mailed check",66.50,1197.00,No,Clean
+CUST-7675,Male,No,Unknown,Unknown,55,No,"No phone service","Fiber optic",Yes,"No internet service","No internet service","No internet service",No,Yes,Month-to-month,No,"Bank transfer",83.41,4590.75,No,Clean
+CUST-7676,Female,No,No,Yes,32,Yes,"No phone service","Fiber optic",No,"No internet service","No internet service",Yes,No,No,Month-to-month,No,"Bank transfer",73.13,2347.57,No,Clean
+CUST-7677,Female,No,Yes,Yes,67,Yes,"No phone service","Fiber optic",No,No,"No internet service",No,Yes,Yes,"Two year",No,"Bank transfer",83.42,5585.62,Yes,Clean
+CUST-7678,Female,No,Yes,No,52,Yes,Yes,"Fiber optic",No,Yes,No,"No internet service",No,"No internet service","One year",No,"Electronic check",75.48,3917.81,No,Clean
+CUST-7679,Male,No,No,No,19,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",32.86,615.71,Yes,Clean
+CUST-7681,Male,No,Yes,Yes,5,Yes,Yes,DSL,No,Yes,No,No,"No internet service",Yes,"Two year",No,"Bank transfer",58.12,300.04,No,Clean
+CUST-7682,Male,No,Yes,No,36,Yes,"No phone service",DSL,Yes,"No internet service",Yes,"No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",69.52,2505.91,No,Clean
+CUST-7683,Female,No,Yes,No,57,Yes,Yes,"Fiber optic","No internet service","No internet service",No,Yes,No,Yes,Month-to-month,Yes,"Electronic check",99.45,5667.04,Yes,Clean
+CUST-7684,Male,Yes,Yes,Yes,38,Yes,Yes,DSL,No,Yes,Yes,"No internet service",No,No,Month-to-month,No,"Electronic check",67.76,2568.51,Yes,Clean
+CUST-7685,Male,No,No,Yes,12,Yes,"No phone service",DSL,No,Yes,No,No,"No internet service","No internet service","Two year",Yes,"Credit card",54.88,664.76,No,Clean
+CUST-7686,Female,No,Yes,No,0,Yes,Yes,"Fiber optic","No internet service",No,Yes,"No internet service",No,No,"One year",No,"Mailed check",84.08,7.48,No,Clean
+CUST-7687,Male,No,Yes,Yes,47,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",34.89,1648.32,No,Clean
+CUST-7688,Male,No,No,Yes,43,Yes,No,"Fiber optic",No,Yes,Yes,No,No,Yes,Month-to-month,No,"Credit card",82.29,3532.55,No,Clean
+CUST-7689,Male,Yes,Yes,No,0,Yes,"No phone service",DSL,Yes,Yes,"No internet service",No,"No internet service",Yes,Month-to-month,No,"Bank transfer",61.54,0.00,Yes,Clean
+CUST-7690,Male,No,Yes,Yes,36,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",20.00,710.64,Yes,Clean
+CUST-7691,Male,No,Yes,No,21,No,"No phone service","Fiber optic",No,Yes,No,Yes,Yes,No,"Two year",No,"Electronic check",76.79,1612.09,No,Clean
+CUST-7692,Male,No,Yes,Yes,40,Yes,Yes,"Fiber optic",Yes,Yes,No,No,Yes,Yes,"One year",Yes,"Credit card",103.67,4153.70,Yes,Clean
+CUST-7693,Female,No,Yes,Yes,21,Yes,Yes,"Fiber optic",No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,"Mailed check",89.15,1869.66,Yes,Clean
+CUST-7694,Male,No,Yes,No,47,Yes,Yes,DSL,"No internet service","No internet service",Yes,No,"No internet service",No,"Two year",No,"Mailed check",53.01,2500.23,No,Clean
+CUST-7695,Female,No,No,No,45,Yes,No,"Fiber optic","No internet service",No,"No internet service","No internet service",No,No,"One year",No,"Mailed check",65.88,2962.18,No,Clean
+CUST-7696,Female,No,Yes,No,56,Yes,No,DSL,Yes,"No internet service",No,Yes,Yes,"No internet service","One year",Yes,"Electronic check",70.70,3964.16,No,Clean
+CUST-7697,Male,No,No,Yes,64,Yes,Yes,"Fiber optic","No internet service","No internet service",Yes,"No internet service",Yes,Yes,Month-to-month,Yes,"Credit card",100.61,6432.42,Yes,Clean
+CUST-7698,Female,Yes,No,No,59,Yes,Yes,DSL,No,"No internet service",No,No,No,No,Month-to-month,No,"Mailed check",49.17,2899.39,No,Clean
+CUST-7699,Male,No,Yes,Yes,39,Yes,No,"Fiber optic","No internet service","No internet service",No,Yes,No,"No internet service",Month-to-month,Yes,"Credit card",84.00,3279.95,Yes,Clean
+CUST-7700,Male,Yes,No,No,50,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,"No internet service","No internet service",No,"One year",No,"Electronic check",83.67,4178.02,No,Clean
+CUST-7701,Male,No,No,No,29,Yes,No,DSL,No,"No internet service",No,"No internet service",No,No,"Two year",No,"Mailed check",46.51,1355.21,No,Clean
+CUST-7702,Female,No,No,Yes,62,Yes,"No phone service","Fiber optic",Yes,No,No,"No internet service",No,"No internet service",Month-to-month,Yes,"Mailed check",82.96,5136.47,No,Clean
+CUST-7703,Female,No,Yes,Yes,1,Yes,No,DSL,Yes,Yes,No,Yes,"No internet service","No internet service",Month-to-month,No,"Electronic check",64.34,60.63,Yes,Clean
+CUST-7704,Female,No,No,Yes,0,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,"One year",Yes,"Mailed check",65.07,2.26,No,Clean
+CUST-7705,Male,Yes,Yes,No,33,Yes,Yes,"Fiber optic",Yes,No,Yes,"No internet service",No,Yes,Month-to-month,Yes,"Mailed check",98.98,3274.66,No,Clean
+CUST-7706,Female,No,No,Yes,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,"No internet service",No,"Two year",Yes,"Mailed check",83.97,4290.94,No,Clean
+CUST-7707,Male,No,No,Yes,16,Yes,"No phone service","Fiber optic",Yes,"No internet service",No,No,No,No,Month-to-month,No,"Mailed check",83.13,1322.92,Yes,Clean
+CUST-7708,Female,No,No,Yes,22,Yes,"No phone service",DSL,"No internet service","No internet service","No internet service",Yes,"No internet service","No internet service",Month-to-month,Yes,"Bank transfer",52.86,1156.64,Yes,Clean
+CUST-7709,Male,No,Yes,Yes,29,Yes,No,"Fiber optic",Yes,No,"No internet service",Yes,Yes,No,Month-to-month,No,"Electronic check",104.50,3023.12,No,Clean
+CUST-7710,Female,No,No,No,63,Yes,"No phone service","Fiber optic",No,"No internet service",No,No,No,"No internet service",Month-to-month,No,"Electronic check",77.88,4913.49,No,Clean
+CUST-7711,Male,No,Yes,Yes,19,Yes,"No phone service",DSL,"No internet service",No,Yes,Yes,Yes,No,Month-to-month,Yes,"Credit card",62.62,1187.69,No,Clean
+CUST-7712,Male,No,Yes,No,20,Yes,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,"Bank transfer",66.24,1326.39,No,Clean
+CUST-7713,Male,No,No,Yes,72,Yes,No,"Fiber optic","No internet service","No internet service",No,No,Yes,Yes,Month-to-month,No,"Mailed check",91.30,6582.55,Yes,Clean
+CUST-7714,Female,No,No,Yes,34,Yes,Yes,"Fiber optic",No,Yes,Yes,Yes,"No internet service",Yes,"Two year",Yes,"Mailed check",89.44,3035.33,No,Clean
+CUST-7715,Female,No,Yes,No,70,Yes,"No phone service","Fiber optic","No internet service",No,No,"No internet service",Yes,No,Month-to-month,No,"Electronic check",83.13,5816.21,No,Clean
+CUST-7716,Female,Yes,No,Yes,72,Yes,Yes,"Fiber optic",Yes,No,Yes,No,No,"No internet service","One year",No,"Mailed check",79.00,5692.60,No,Clean
+CUST-7717,Male,No,No,Unknown,27,Yes,"No phone service","Fiber optic",No,No,No,"No internet service","No internet service",No,Month-to-month,No,"Mailed check",81.64,2198.76,Yes,Clean
+CUST-7718,Female,Yes,Yes,Yes,33,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",33.29,1090.55,No,Clean
+CUST-7719,Female,No,No,Yes,13,Yes,No,DSL,Yes,"No internet service","No internet service",Yes,No,Yes,"One year",No,"Credit card",71.75,929.43,No,Clean
+CUST-7720,Female,No,Yes,Yes,47,Yes,Yes,"Fiber optic",No,"No internet service",Yes,"No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",79.99,3764.79,No,Clean
+CUST-7721,Male,No,Yes,No,6,Yes,Yes,"Fiber optic","No internet service","No internet service",Yes,No,No,No,"One year",Yes,"Credit card",87.53,521.79,No,Clean
+CUST-7722,Male,Yes,No,Unknown,5,Yes,No,"Fiber optic","No internet service",Yes,Yes,"No internet service","No internet service",Yes,"Two year",No,"Credit card",99.25,503.33,Yes,Clean
+CUST-7723,Female,No,Yes,Yes,40,Yes,No,DSL,No,Yes,No,Yes,"No internet service",Yes,"One year",No,"Credit card",67.39,2693.88,No,Clean
+CUST-7724,Male,No,Yes,Yes,13,Yes,No,"Fiber optic",Yes,"No internet service",No,No,No,No,"One year",Yes,"Mailed check",82.12,1065.13,Yes,Clean
+CUST-7725,Male,No,No,Yes,2,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Bank transfer",27.11,51.25,No,Clean
+CUST-7726,Male,No,No,Yes,36,Yes,Yes,DSL,No,No,"No internet service",Yes,"No internet service",No,Month-to-month,Yes,"Credit card",51.45,1855.41,No,"Duplicate ID - Conflicting Values"
+CUST-7727,Female,Yes,No,Yes,2,Yes,No,"Fiber optic","No internet service",Yes,Yes,Yes,No,No,Month-to-month,No,"Credit card",81.09,169.12,Yes,Clean
+CUST-7729,Female,No,Yes,Yes,47,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Electronic check",32.05,1508.96,No,Clean
+CUST-7730,Male,No,Yes,No,9,Yes,Yes,DSL,No,No,Yes,"No internet service","No internet service","No internet service",Month-to-month,No,"Bank transfer",60.86,540.75,Yes,Clean
+CUST-7731,Male,No,Yes,No,10,Yes,Yes,DSL,No,No,Yes,Yes,"No internet service","No internet service","Two year",Yes,"Credit card",55.72,558.75,Yes,Clean
+CUST-7732,Female,No,No,Yes,29,Yes,No,DSL,"No internet service",Yes,Yes,Yes,"No internet service",No,"One year",Yes,"Electronic check",69.90,2030.13,No,Clean
+CUST-7733,Male,No,Yes,No,5,Yes,No,"Fiber optic","No internet service",Yes,Yes,No,Yes,Yes,Month-to-month,No,"Mailed check",88.28,435.67,Yes,Clean
+CUST-7734,Female,No,Yes,No,19,Yes,Yes,DSL,Yes,Yes,Yes,"No internet service",Yes,"No internet service",Month-to-month,Yes,"Credit card",83.64,1586.65,Yes,Clean
+CUST-7735,Female,No,Yes,No,25,Yes,"No phone service","Fiber optic",No,No,"No internet service",Yes,No,No,Month-to-month,Yes,"Mailed check",84.00,2093.25,No,Clean
+CUST-7736,Female,No,No,Yes,26,Yes,"No phone service","Fiber optic",Yes,No,No,Yes,Yes,Yes,"One year",No,"Bank transfer",87.59,2271.19,Yes,Clean
+CUST-7737,Female,No,Yes,Yes,40,Yes,"No phone service",DSL,Yes,No,Yes,Yes,Yes,Yes,"One year",Yes,"Bank transfer",82.70,3312.99,No,Clean
+CUST-7738,Male,No,Yes,Yes,66,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",27.33,1798.96,No,Clean
+CUST-7739,Male,No,No,No,26,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",27.58,714.55,No,Clean
+CUST-7740,Male,No,No,No,70,No,"No phone service","Fiber optic","No internet service","No internet service",Yes,Yes,No,"No internet service",Month-to-month,Yes,"Bank transfer",78.49,5488.47,Yes,Clean
+CUST-7741,Female,No,Yes,No,51,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",31.62,1616.51,No,Clean
+CUST-7742,Male,Yes,No,Yes,45,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",34.75,1560.04,Yes,Clean
+CUST-7743,Male,Yes,No,No,15,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Bank transfer",28.12,412.57,No,Clean
+CUST-7744,Female,Yes,Yes,Yes,6,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",30.43,181.19,Yes,Clean
+CUST-7745,Female,Yes,Yes,Yes,39,Yes,"No phone service",DSL,"No internet service",Yes,Yes,Yes,No,No,"One year",Yes,"Bank transfer",69.01,2698.32,No,Clean
+CUST-7746,Male,No,No,Yes,48,Yes,"No phone service",DSL,No,No,No,"No internet service","No internet service","No internet service","One year",No,"Bank transfer",55.65,2677.35,No,Clean
+CUST-7747,Male,No,Yes,Yes,3,Yes,No,"Fiber optic","No internet service",Yes,Yes,Yes,Yes,No,"Two year",No,"Credit card",95.59,284.31,Yes,Clean
+CUST-7748,Female,No,Yes,No,55,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",25.55,1395.84,No,Clean
+CUST-7749,Male,No,No,Yes,11,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Electronic check",31.89,350.42,No,Clean
+CUST-7750,Female,No,Yes,No,46,Yes,No,DSL,"No internet service",Yes,Yes,"No internet service","No internet service",Yes,"Two year",No,"Bank transfer",63.19,2913.63,No,Clean
+CUST-7751,Female,No,Yes,No,63,Yes,Yes,DSL,Yes,No,No,"No internet service","No internet service","No internet service","One year",Yes,"Mailed check",67.14,4226.34,No,Clean
+CUST-7752,Male,No,Yes,Yes,7,Yes,"No phone service",DSL,"No internet service","No internet service","No internet service",No,"No internet service",No,Month-to-month,Yes,"Credit card",54.62,391.44,Yes,Clean
+CUST-7753,Female,No,Yes,Yes,0,No,"No phone service","Fiber optic",Yes,No,Yes,Yes,Yes,"No internet service","One year",No,"Electronic check",99.57,2.20,No,Clean
+CUST-7754,Male,No,Yes,Yes,14,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Mailed check",34.08,485.62,No,Clean
+CUST-7755,Female,No,Yes,Yes,14,Yes,"No phone service","Fiber optic","No internet service","No internet service","No internet service",No,Yes,Yes,Month-to-month,No,"Electronic check",93.30,1306.20,Yes,Clean
+CUST-7756,Male,No,No,Yes,11,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Electronic check",29.30,328.13,Yes,Clean
+CUST-7757,Female,No,No,Yes,68,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",30.70,2093.38,Yes,Clean
+CUST-7758,Male,No,Yes,No,6,No,"No phone service",DSL,"No internet service",Yes,Yes,Yes,"No internet service",Yes,Month-to-month,Yes,"Electronic check",61.62,362.47,Yes,Clean
+CUST-7759,Male,No,Yes,No,66,Yes,Yes,DSL,No,No,"No internet service",No,"No internet service","No internet service","Two year",Yes,"Mailed check",61.40,4058.28,No,Clean
+CUST-7760,Male,No,Yes,No,10,Yes,No,"Fiber optic",No,"No internet service",Yes,No,Yes,"No internet service",Month-to-month,Yes,"Credit card",91.84,909.38,Yes,Clean
+CUST-7761,Female,No,No,No,69,Yes,No,DSL,No,Yes,Yes,"No internet service",Yes,No,Month-to-month,No,"Mailed check",59.53,4107.68,No,Clean
+CUST-7762,Male,No,No,No,26,No,"No phone service",DSL,Yes,Yes,"No internet service",Yes,"No internet service",No,Month-to-month,No,"Mailed check",48.70,1267.58,No,Clean
+CUST-7763,Female,Yes,No,Yes,32,Yes,"No phone service",DSL,No,"No internet service",No,No,No,No,Month-to-month,No,"Credit card",44.85,1442.32,No,Clean
+CUST-7764,Male,Yes,No,No,10,Yes,No,"Fiber optic","No internet service",No,Yes,No,No,No,Month-to-month,Yes,"Bank transfer",79.75,791.92,No,Clean
+CUST-7765,Female,No,No,Yes,9,No,"No phone service","Fiber optic",No,Yes,No,"No internet service",Yes,No,Month-to-month,No,"Mailed check",66.53,603.04,Yes,Clean
+CUST-7766,Female,No,Yes,No,45,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",20.00,891.24,No,Clean
+CUST-7767,Male,No,No,Yes,2,Yes,No,"Fiber optic",No,"No internet service",Yes,No,"No internet service",No,"One year",Yes,"Mailed check",71.31,143.98,No,Clean
+CUST-7768,Female,No,Yes,No,37,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Electronic check",29.14,1076.60,No,Clean
+CUST-7770,Female,No,Yes,No,67,Yes,"No phone service",DSL,Yes,No,"No internet service","No internet service","No internet service",No,"Two year",No,"Bank transfer",60.07,4016.88,No,Clean
+CUST-7771,Female,No,No,No,19,Yes,Yes,"Fiber optic",No,Yes,"No internet service",No,"No internet service",No,"Two year",Yes,"Electronic check",75.57,1442.95,No,Clean
+CUST-7772,Female,No,No,No,32,Yes,No,"Fiber optic",Yes,"No internet service","No internet service","No internet service",Yes,No,"One year",Yes,"Mailed check",84.26,2705.93,No,Clean
+CUST-7773,Female,Yes,Yes,Yes,5,Yes,"No phone service",DSL,No,Yes,"No internet service","No internet service","No internet service",No,"One year",Yes,"Mailed check",60.62,311.82,No,Clean
+CUST-7774,Male,No,No,No,71,Yes,Yes,"Fiber optic",Yes,"No internet service",Yes,"No internet service",No,Yes,Month-to-month,No,"Electronic check",89.70,6364.83,Yes,Clean
+CUST-7775,Male,No,Yes,Yes,10,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Mailed check",34.06,347.41,No,Clean
+CUST-7776,Female,No,No,Yes,1,Yes,No,"Fiber optic","No internet service",No,Yes,No,Yes,"No internet service","One year",No,"Mailed check",79.62,83.48,No,Clean
+CUST-7777,Female,No,No,Yes,30,No,"No phone service",DSL,No,No,Yes,"No internet service","No internet service",No,Month-to-month,No,"Mailed check",39.59,1197.25,No,Clean
+CUST-7778,Male,No,Yes,Yes,5,Yes,Yes,DSL,No,No,"No internet service",No,Yes,Yes,"One year",No,"Electronic check",61.43,301.18,No,Clean
+CUST-7779,Female,No,No,Yes,13,Yes,Yes,"Fiber optic",No,Yes,Yes,"No internet service",Yes,No,Month-to-month,No,"Mailed check",83.55,1077.34,Yes,Clean
+CUST-7780,Female,No,No,No,43,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",27.02,1154.02,Yes,Clean
+CUST-7781,Male,No,No,No,1,Yes,"No phone service","Fiber optic",Yes,Yes,Yes,"No internet service",No,"No internet service",Month-to-month,Yes,"Electronic check",83.48,92.25,Yes,Clean
+CUST-7782,Male,No,No,Yes,30,Yes,Yes,"Fiber optic",No,Yes,No,No,No,"No internet service","One year",Yes,"Mailed check",73.78,2215.53,No,Clean
+CUST-7783,Male,No,Yes,No,40,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",28.02,1114.18,No,Clean
+CUST-7784,Female,No,No,Yes,11,Yes,Yes,"Fiber optic",Yes,No,Yes,No,No,No,Month-to-month,Yes,"Mailed check",94.71,1048.82,Yes,Clean
+CUST-7785,Female,No,Unknown,No,57,Yes,Yes,DSL,No,No,Yes,Yes,No,"No internet service",Month-to-month,No,"Credit card",56.91,3244.57,No,Clean
+CUST-7786,Female,Yes,No,No,21,Yes,No,"Fiber optic",Yes,No,"No internet service",Yes,"No internet service",No,"Two year",Yes,"Bank transfer",98.75,2073.82,No,Clean
+CUST-7787,Female,Yes,No,No,56,Yes,"No phone service","Fiber optic",No,"No internet service","No internet service",Yes,Yes,Yes,Month-to-month,No,"Bank transfer",95.23,5325.41,No,Clean
+CUST-7788,Female,No,Yes,Yes,8,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",28.79,229.22,No,Clean
+CUST-7789,Female,Yes,No,No,50,No,"No phone service",DSL,No,"No internet service",No,"No internet service",No,"No internet service",Month-to-month,No,"Credit card",40.50,2033.26,Yes,Clean
+CUST-7790,Female,No,Yes,Yes,68,Yes,"No phone service","Fiber optic","No internet service",Yes,No,No,No,Yes,"One year",No,"Electronic check",86.16,5858.46,No,Clean
+CUST-7791,Female,No,No,Yes,45,No,"No phone service","Fiber optic",No,"No internet service",Yes,No,"No internet service",Yes,Month-to-month,Yes,"Credit card",71.85,3228.78,No,Clean
+CUST-7792,Female,No,Yes,Yes,1,Yes,"No phone service","Fiber optic",Yes,No,Yes,"No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",91.28,100.24,Yes,Clean
+CUST-7793,Female,No,Unknown,Yes,4,Yes,Yes,"Fiber optic",Yes,No,No,No,No,"No internet service",Month-to-month,Yes,"Mailed check",81.18,320.50,Yes,Clean
+CUST-7794,Female,No,Yes,No,12,Yes,No,"Fiber optic",Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,"Credit card",93.10,1117.20,Yes,Clean
+CUST-7795,Male,No,Yes,Yes,23,Yes,"No phone service","Fiber optic","No internet service","No internet service",No,No,"No internet service",No,"Two year",No,"Electronic check",74.02,1700.57,No,Clean
+CUST-7796,Female,No,Yes,No,37,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",27.04,1007.11,Yes,Clean
+CUST-7797,Male,Yes,No,No,67,Yes,Yes,DSL,No,"No internet service","No internet service",Yes,"No internet service","No internet service",Month-to-month,No,"Electronic check",55.33,3714.52,No,Clean
+CUST-7798,Male,No,No,No,7,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",30.17,207.01,Yes,Clean
+CUST-7799,Female,No,No,Yes,24,Yes,"No phone service","Fiber optic",No,Yes,Yes,"No internet service",No,"No internet service",Month-to-month,No,"Mailed check",87.68,2109.95,No,Clean
+CUST-7800,Male,No,No,Yes,56,Yes,No,DSL,No,"No internet service","No internet service","No internet service","No internet service",No,"Two year",Yes,"Credit card",51.56,2887.52,No,Clean
+CUST-7801,Female,No,No,No,68,Yes,"No phone service","Fiber optic",No,Yes,No,No,No,"No internet service",Month-to-month,No,"Credit card",78.55,5343.50,No,Clean
+CUST-7802,Male,No,Yes,Yes,63,Yes,"No phone service","Fiber optic","No internet service",No,"No internet service",Yes,No,Yes,"One year",Yes,"Credit card",92.54,5823.16,No,Clean
+CUST-7803,Female,No,No,Yes,68,Yes,Yes,"Fiber optic","No internet service","No internet service",Yes,"No internet service",Yes,No,Month-to-month,Yes,"Bank transfer",76.30,5183.53,Yes,Clean
+CUST-7804,Male,No,No,No,55,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Credit card",34.07,1883.65,No,Clean
+CUST-7805,Male,No,Yes,No,39,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Bank transfer",34.19,1341.41,No,Clean
+CUST-7806,Female,No,No,No,71,Yes,"No phone service",DSL,Yes,Yes,Yes,No,"No internet service","No internet service","Two year",Yes,"Credit card",73.80,5248.66,No,Clean
+CUST-7807,Female,No,Yes,Yes,17,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Electronic check",32.11,550.78,No,Clean
+CUST-7808,Female,No,No,No,61,Yes,No,DSL,"No internet service",No,Yes,Yes,No,"No internet service","One year",No,"Bank transfer",70.37,4289.67,No,Clean
+CUST-7809,Female,No,No,Yes,9,Yes,"No phone service",DSL,Yes,No,Yes,Yes,No,"No internet service",Month-to-month,No,"Bank transfer",67.59,602.86,Yes,Clean
+CUST-7810,Male,No,Yes,No,5,Yes,"No phone service",DSL,No,Yes,"No internet service","No internet service","No internet service",No,Month-to-month,Yes,"Credit card",44.04,212.34,Yes,Clean
+CUST-7811,Female,No,No,No,3,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",20.00,54.23,No,Clean
+CUST-7812,Female,No,No,Yes,59,Yes,"No phone service",DSL,No,"No internet service",Yes,No,"No internet service",Yes,Month-to-month,No,"Credit card",66.38,3911.06,No,Clean
+CUST-7813,Female,No,No,No,72,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",No,"No internet service",Yes,"One year",No,"Credit card",80.54,5797.72,No,Clean
+CUST-7814,Male,No,Yes,No,29,Yes,No,"Fiber optic",Yes,Yes,Yes,Yes,"No internet service","No internet service",Month-to-month,No,"Electronic check",107.97,3140.13,No,Clean
+CUST-7815,Male,No,Yes,No,41,Yes,Yes,DSL,Yes,"No internet service",Yes,Yes,Yes,No,Month-to-month,No,"Mailed check",75.68,3109.83,Yes,Clean
+CUST-7816,Male,No,Yes,No,36,Yes,Yes,"Fiber optic",No,Yes,Yes,No,No,"No internet service","Two year",Yes,"Credit card",88.81,3190.05,No,Clean
+CUST-7817,Female,No,Yes,No,47,No,"No phone service",DSL,Yes,No,"No internet service",No,Yes,Yes,"One year",Yes,"Credit card",54.40,2563.34,No,Clean
+CUST-7818,Female,No,Yes,No,29,Yes,Yes,"Fiber optic",No,No,"No internet service",Yes,"No internet service",No,Month-to-month,Yes,"Electronic check",90.57,2621.92,No,Clean
+CUST-7819,Female,No,Yes,Yes,24,Yes,Yes,DSL,Yes,"No internet service","No internet service",Yes,No,No,"Two year",Yes,"Bank transfer",60.61,1460.54,No,Clean
+CUST-7820,Female,Yes,Yes,No,2,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Electronic check",25.53,60.18,Yes,Clean
+CUST-7821,Female,No,Yes,No,11,Yes,"No phone service",DSL,No,"No internet service",No,No,"No internet service",Yes,Month-to-month,Yes,"Mailed check",53.17,576.60,No,Clean
+CUST-7822,Female,Yes,Yes,Yes,8,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",33.20,275.39,No,Clean
+CUST-7823,Female,No,Yes,Yes,5,Yes,No,"Fiber optic",Yes,No,No,"No internet service",Yes,Yes,"One year",No,"Electronic check",84.33,431.42,No,Clean
+CUST-7824,Female,No,Yes,Yes,23,Yes,"No phone service",DSL,No,Yes,"No internet service","No internet service",Yes,Yes,Month-to-month,Yes,"Bank transfer",71.16,1629.13,Yes,Clean
+CUST-7825,Male,Yes,No,Yes,1,No,"No phone service","Fiber optic","No internet service","No internet service",Yes,No,Yes,Yes,Month-to-month,No,"Credit card",88.51,81.40,Yes,Clean
+CUST-7826,Male,No,Yes,Yes,45,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",20.00,909.94,No,Clean
+CUST-7827,Male,No,No,No,68,Yes,Yes,DSL,"No internet service",No,"No internet service",No,Yes,No,Month-to-month,No,"Bank transfer",58.81,4008.53,Yes,Clean
+CUST-7828,Female,Yes,Yes,No,13,Yes,"No phone service","Fiber optic",Yes,No,Yes,"No internet service","No internet service",No,"Two year",Yes,"Mailed check",86.44,1115.72,No,Clean
+CUST-7829,Male,No,No,Yes,38,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",25.69,984.60,No,Clean
+CUST-7830,Female,No,No,Yes,59,Yes,Yes,DSL,"No internet service","No internet service",No,"No internet service",No,Yes,Month-to-month,No,"Electronic check",55.71,3277.28,No,Clean
+CUST-7831,Female,No,Yes,No,48,Yes,"No phone service",DSL,No,"No internet service","No internet service","No internet service",No,"No internet service",Month-to-month,No,"Credit card",58.81,2831.00,Yes,Clean
+CUST-7832,Male,No,Yes,No,7,Yes,"No phone service","Fiber optic",No,"No internet service","No internet service","No internet service",Yes,Yes,Month-to-month,No,"Credit card",80.88,574.44,No,Clean
+CUST-7833,Female,No,No,Yes,37,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Electronic check",29.87,1114.61,No,Clean
+CUST-7834,Male,No,No,Yes,16,Yes,Yes,"Fiber optic",Yes,No,Yes,"No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",88.88,1426.30,No,Clean
+CUST-7835,Male,No,Yes,Yes,58,Yes,"No phone service",DSL,Yes,Yes,No,No,Yes,Yes,"One year",No,"Bank transfer",70.36,4081.29,No,Clean
+CUST-7836,Male,No,No,No,29,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,"No internet service",Yes,No,Month-to-month,No,"Credit card",97.52,2830.07,No,Clean
+CUST-7837,Female,No,Yes,No,35,Yes,Yes,DSL,No,"No internet service",Yes,"No internet service",Yes,No,Month-to-month,Yes,"Electronic check",67.91,2384.76,No,Clean
+CUST-7838,Male,No,Yes,Yes,31,Yes,Yes,"Fiber optic","No internet service",Yes,No,Yes,"No internet service","No internet service",Month-to-month,No,"Credit card",85.17,2638.53,No,Clean
+CUST-7839,Female,No,Yes,Yes,61,Yes,No,"Fiber optic","No internet service","No internet service",No,No,"No internet service",Yes,Month-to-month,No,"Bank transfer",81.07,4945.27,Yes,Clean
+CUST-7840,Male,No,Yes,Yes,23,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",30.93,717.90,No,Clean
+CUST-7841,Female,No,No,Yes,7,Yes,Yes,"Fiber optic",No,"No internet service",Yes,"No internet service","No internet service",No,Month-to-month,Yes,"Credit card",88.51,626.70,Yes,Clean
+CUST-7842,Male,Yes,Yes,Yes,69,Yes,Yes,DSL,"No internet service","No internet service",Yes,No,No,"No internet service","Two year",Yes,"Electronic check",59.41,4093.77,No,Clean
+CUST-7843,Female,No,No,Yes,10,Yes,Yes,"Fiber optic","No internet service",No,No,"No internet service",Yes,No,Month-to-month,No,"Electronic check",69.39,701.33,No,Clean
+CUST-7844,Female,No,No,No,63,Yes,Yes,"Fiber optic","No internet service","No internet service",Yes,Yes,No,"No internet service","Two year",Yes,"Mailed check",91.71,5781.06,No,Clean
+CUST-7845,Female,No,No,Yes,68,Yes,No,"Fiber optic","No internet service","No internet service","No internet service",No,Yes,"No internet service","One year",No,"Bank transfer",87.01,5912.34,Yes,Clean
+CUST-7846,Unknown,No,Yes,Yes,12,Yes,Yes,DSL,"No internet service","No internet service","No internet service",No,No,No,Month-to-month,No,"Bank transfer",60.85,721.08,No,Clean
+CUST-7847,Male,No,No,Yes,61,Yes,"No phone service",DSL,"No internet service",No,No,Yes,No,Yes,Month-to-month,No,"Electronic check",61.43,3745.84,Yes,Clean
+CUST-7848,Female,No,No,No,19,Yes,Yes,DSL,Yes,Yes,"No internet service","No internet service",Yes,Yes,Month-to-month,Yes,"Credit card",68.54,1297.37,No,Clean
+CUST-7849,Female,Yes,No,No,7,Yes,No,DSL,No,Yes,No,Yes,No,Yes,"One year",No,"Bank transfer",63.06,434.04,No,Clean
+CUST-7850,Male,Yes,Yes,No,27,Yes,"No phone service","Fiber optic","No internet service","No internet service","No internet service","No internet service","No internet service",Yes,"Two year",Yes,"Bank transfer",80.43,2173.17,No,Clean
+CUST-7851,Female,No,Yes,Yes,12,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",26.87,322.44,No,Clean
+CUST-7852,Female,No,No,Yes,2,No,"No phone service",DSL,Yes,Yes,"No internet service",Yes,Yes,No,"Two year",Yes,"Electronic check",62.30,120.42,Yes,Clean
+CUST-7853,Female,No,No,No,40,Yes,No,DSL,No,No,No,Yes,"No internet service",No,"One year",Yes,"Electronic check",57.09,2277.04,No,Clean
+CUST-7854,Female,No,No,No,43,Yes,Yes,"Fiber optic",No,Yes,Yes,Yes,"No internet service",No,Month-to-month,No,"Credit card",92.43,3984.19,No,Clean
+CUST-7855,Female,Yes,Yes,No,0,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",25.62,6.57,No,Clean
+CUST-7856,Female,No,No,Yes,50,Yes,Yes,"Fiber optic",Yes,No,"No internet service","No internet service",No,Yes,"Two year",Yes,"Bank transfer",87.26,4358.87,Yes,Clean
+CUST-7857,Female,No,Yes,No,8,Yes,Yes,DSL,Yes,Yes,No,"No internet service",Yes,No,"Two year",Yes,"Mailed check",71.73,573.84,No,Clean
+CUST-7858,Female,No,No,Yes,58,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Bank transfer",33.01,1921.12,No,Clean
+CUST-7859,Female,No,Yes,Yes,36,No,"No phone service","Fiber optic",Yes,Yes,Yes,"No internet service","No internet service",Yes,Month-to-month,Yes,"Mailed check",83.36,2996.66,Yes,Clean
+CUST-7860,Female,No,Yes,No,8,Yes,"No phone service",DSL,No,"No internet service",No,No,No,No,Month-to-month,No,"Bank transfer",57.43,461.53,Yes,Clean
+CUST-7861,Female,No,Yes,No,34,Yes,Yes,DSL,"No internet service",No,No,Yes,No,"No internet service",Month-to-month,No,"Credit card",58.06,1972.86,Yes,Clean
+CUST-7862,Female,No,Yes,No,61,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Electronic check",20.00,1212.60,No,Clean
+CUST-7863,Female,No,No,Yes,59,Yes,"No phone service",DSL,No,No,No,"No internet service","No internet service",No,"One year",No,"Credit card",43.01,2529.12,No,Clean
+CUST-7864,Female,No,No,Yes,40,Yes,No,DSL,No,No,Yes,Yes,No,"No internet service","One year",No,"Bank transfer",61.59,2463.67,Yes,Clean
+CUST-7865,Male,No,No,No,4,Yes,No,"Fiber optic",No,"No internet service",No,"No internet service",No,"No internet service","Two year",Yes,"Electronic check",80.64,332.28,Yes,Clean
+CUST-7866,Female,No,No,Yes,50,Yes,"No phone service","Fiber optic",No,Yes,No,No,"No internet service",Yes,Month-to-month,Yes,"Mailed check",76.08,3800.62,Yes,Clean
+CUST-7867,Male,No,No,No,68,Yes,"No phone service","Fiber optic",Yes,Yes,Yes,Yes,"No internet service","No internet service",Month-to-month,Yes,"Mailed check",101.75,6920.04,No,Clean
+CUST-7868,Female,No,No,No,52,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",31.77,1651.70,Yes,Clean
+CUST-7869,Female,No,Yes,No,61,Yes,No,"Fiber optic",Yes,"No internet service",No,Yes,"No internet service",No,"One year",No,"Credit card",85.58,5212.09,No,Clean
+CUST-7870,Male,Yes,Yes,Yes,39,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",33.42,1297.27,No,Clean
+CUST-7871,Male,No,Yes,Yes,5,Yes,"No phone service","Fiber optic","No internet service","No internet service",Yes,No,Yes,"No internet service",Month-to-month,Yes,"Electronic check",83.84,420.18,No,Clean
+CUST-7872,Female,No,Yes,No,67,Yes,No,DSL,"No internet service",Yes,Yes,"No internet service","No internet service",No,"One year",No,"Mailed check",62.40,4174.14,No,Clean
+CUST-7873,Male,No,No,No,38,Yes,Yes,"Fiber optic",No,Yes,Yes,No,"No internet service","No internet service","One year",No,"Mailed check",80.09,3046.42,Yes,Clean
+CUST-7874,Female,Yes,No,Yes,10,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",26.69,259.58,No,Clean
+CUST-7875,Female,No,No,Yes,0,Yes,"No phone service","Fiber optic",Yes,Yes,"No internet service",No,No,Yes,"One year",Yes,"Mailed check",89.29,0.00,Yes,Clean
+CUST-7876,Female,No,Yes,Yes,54,Yes,"No phone service",DSL,"No internet service",No,Yes,Yes,"No internet service",Yes,"Two year",Yes,"Mailed check",72.05,3898.32,No,Clean
+CUST-7877,Male,No,Yes,Yes,26,Yes,No,"Fiber optic",Yes,Yes,"No internet service",Yes,No,No,Month-to-month,Yes,"Mailed check",86.20,2240.89,No,Clean
+CUST-7878,Male,No,Yes,No,8,Yes,No,"Fiber optic",Yes,"No internet service","No internet service",No,"No internet service","No internet service",Month-to-month,No,"Mailed check",86.39,696.14,Yes,Clean
+CUST-7879,Female,No,No,No,65,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Mailed check",20.00,1294.20,No,Clean
+CUST-7880,Male,No,No,Yes,55,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",31.07,1704.18,Yes,Clean
+CUST-7881,Female,No,No,Yes,34,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Electronic check",27.46,933.22,No,Clean
+CUST-7882,Male,Yes,No,Yes,26,No,"No phone service","Fiber optic",No,Yes,Yes,No,No,No,"One year",No,"Electronic check",71.65,1857.36,No,Clean
+CUST-7883,Male,No,Yes,Yes,57,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Electronic check",31.13,1775.68,No,Clean
+CUST-7884,Female,No,Yes,No,48,Yes,Yes,"Fiber optic",Yes,"No internet service","No internet service","No internet service","No internet service",Yes,Month-to-month,No,"Mailed check",80.01,3838.63,Yes,Clean
+CUST-7885,Female,Yes,Yes,No,34,Yes,No,"Fiber optic",Yes,"No internet service",No,Yes,Yes,"No internet service",Month-to-month,No,"Mailed check",96.86,3284.00,No,Clean
+CUST-7886,Male,No,No,Yes,68,Yes,No,DSL,"No internet service",Yes,No,Yes,Yes,Yes,"Two year",Yes,"Mailed check",87.50,5954.46,No,Clean
+CUST-7887,Male,No,No,No,42,Yes,No,DSL,"No internet service",No,"No internet service","No internet service","No internet service",No,Month-to-month,No,"Bank transfer",44.43,1866.06,Yes,Clean
+CUST-7888,Female,No,No,Yes,67,Yes,Yes,"Fiber optic","No internet service",No,"No internet service",No,"No internet service",No,Month-to-month,No,"Mailed check",83.11,5564.60,Yes,Clean
+CUST-7889,Male,No,Yes,Yes,54,Yes,No,DSL,No,No,"No internet service",Yes,Yes,No,Month-to-month,Yes,"Electronic check",70.42,3793.80,Yes,Clean
+CUST-7890,Female,No,Yes,Yes,12,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,"Mailed check",68.33,823.98,Yes,Clean
+CUST-7891,Female,No,No,No,28,Yes,Yes,"Fiber optic","No internet service",No,"No internet service",Yes,"No internet service","No internet service",Month-to-month,Yes,"Credit card",77.77,2181.59,Yes,Clean
+CUST-7892,Female,No,Unknown,Yes,64,Yes,"No phone service",DSL,"No internet service",Yes,Yes,Yes,Yes,No,"One year",Yes,"Electronic check",74.49,4764.77,No,Clean
+CUST-7893,Male,No,Yes,Yes,8,Yes,"No phone service",DSL,"No internet service",Yes,"No internet service",Yes,"No internet service","No internet service",Month-to-month,No,"Mailed check",54.87,446.58,Yes,Clean
+CUST-7894,Female,No,Yes,No,23,Yes,"No phone service",DSL,No,Yes,"No internet service",Yes,Yes,No,Month-to-month,Yes,"Credit card",59.81,1372.11,Yes,Clean
+CUST-7895,Male,No,Yes,Yes,11,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Electronic check",34.39,373.51,No,Clean
+CUST-7896,Female,No,Yes,No,11,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",31.34,349.89,Yes,Clean
+CUST-7897,Female,No,Yes,No,9,No,"No phone service",DSL,Yes,No,No,Yes,No,"No internet service","One year",Yes,"Bank transfer",61.08,554.29,No,Clean
+CUST-7898,Male,No,No,Yes,54,Yes,"No phone service","Fiber optic",No,"No internet service",Yes,Yes,No,"No internet service","Two year",No,"Bank transfer",87.12,4712.42,No,Clean
+CUST-7899,Female,No,No,No,43,No,"No phone service",DSL,"No internet service","No internet service","No internet service",Yes,"No internet service",No,Month-to-month,No,"Electronic check",43.92,1886.25,No,Clean
+CUST-7900,Male,No,No,No,11,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,"No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",88.06,963.36,Yes,Clean
+CUST-7901,Female,No,Yes,No,2,Yes,Yes,DSL,No,No,Yes,No,"No internet service","No internet service",Month-to-month,No,"Mailed check",67.39,131.53,No,Clean
+CUST-7902,Male,Yes,No,No,44,Yes,"No phone service",DSL,No,No,Yes,Yes,"No internet service","No internet service",Month-to-month,Yes,"Credit card",60.01,2648.86,Yes,Clean
+CUST-7903,Male,No,No,Yes,68,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",33.57,2280.90,No,Clean
+CUST-7904,Female,No,No,Yes,30,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Electronic check",20.00,596.40,No,Clean
+CUST-7905,Male,Yes,No,No,51,Yes,No,DSL,Yes,Yes,"No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",69.47,3537.24,Yes,Clean
+CUST-7906,Female,No,Yes,No,50,Yes,"No phone service",DSL,"No internet service",Yes,No,"No internet service",Yes,No,"One year",No,"Bank transfer",69.84,3489.24,No,Clean
+CUST-7907,Male,No,Yes,No,38,Yes,Yes,"Fiber optic","No internet service","No internet service",Yes,"No internet service",No,"No internet service",Month-to-month,No,"Electronic check",75.73,2876.96,Yes,Clean
+CUST-7908,Female,No,Yes,Yes,54,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",No,"Electronic check",28.63,1548.05,No,Clean
+CUST-7909,Female,No,Yes,Yes,28,Yes,Yes,DSL,"No internet service",No,"No internet service",No,"No internet service","No internet service","One year",Yes,"Electronic check",58.55,1634.97,No,Clean
+CUST-7910,Male,No,Yes,Yes,14,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",28.35,403.64,No,Clean
+CUST-7911,Male,No,Yes,Yes,7,Yes,"No phone service",DSL,"No internet service",Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,"Mailed check",73.68,515.98,No,Clean
+CUST-7912,Female,Yes,Yes,Yes,3,Yes,No,"Fiber optic",No,Yes,"No internet service",Yes,"No internet service",No,Month-to-month,Yes,"Electronic check",79.26,240.31,Yes,Clean
+CUST-7913,Female,No,No,No,8,Yes,"No phone service","Fiber optic",No,No,No,No,No,Yes,"Two year",No,"Electronic check",85.26,682.08,Yes,Clean
+CUST-7914,Male,No,No,Yes,29,Yes,"No phone service","Fiber optic",Yes,No,"No internet service","No internet service",Yes,Yes,Month-to-month,No,"Credit card",89.75,2597.55,Yes,Clean
+CUST-7915,Female,No,Yes,No,0,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",25.39,0.00,No,Clean
+CUST-7916,Male,Yes,No,Yes,14,Yes,Yes,DSL,"No internet service","No internet service",Yes,"No internet service",Yes,Yes,"Two year",Yes,"Electronic check",70.92,990.37,No,Clean
+CUST-7917,Female,No,No,Yes,33,Yes,No,"Fiber optic","No internet service","No internet service",Yes,No,No,Yes,Month-to-month,Yes,"Electronic check",83.76,2757.76,Yes,Clean
+CUST-7918,Male,No,Yes,Yes,10,Yes,Yes,"Fiber optic",No,No,No,"No internet service","No internet service",Yes,"One year",No,"Mailed check",69.96,708.44,No,Clean
+CUST-7919,Male,Yes,No,Yes,11,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,"Credit card",70.49,768.92,Yes,Clean
+CUST-7920,Female,No,No,No,3,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Credit card",33.33,104.89,No,Clean
+CUST-7921,Female,No,Yes,Yes,27,No,"No phone service",DSL,"No internet service",Yes,"No internet service","No internet service",Yes,"No internet service",Month-to-month,No,"Credit card",47.21,1271.78,No,Clean
+CUST-7922,Female,Yes,Yes,No,27,Yes,Yes,"Fiber optic","No internet service",No,Yes,Yes,"No internet service",Yes,Month-to-month,No,"Credit card",89.38,2409.77,No,Clean
+CUST-7923,Female,No,Yes,Yes,0,Yes,No,DSL,"No internet service","No internet service",Yes,Yes,"No internet service",Yes,"One year",No,"Credit card",68.77,6.21,No,Clean
+CUST-7924,Female,No,No,No,49,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",28.62,1396.88,No,Clean
+CUST-7925,Male,No,Yes,Yes,29,Yes,"No phone service","Fiber optic",No,"No internet service",Yes,No,No,Yes,"Two year",Yes,"Bank transfer",83.46,2411.43,Yes,Clean
+CUST-7926,Female,No,No,No,29,Yes,"No phone service",DSL,Yes,No,"No internet service","No internet service",No,"No internet service","One year",No,"Credit card",57.42,1665.57,No,Clean
+CUST-7927,Male,No,Yes,Yes,46,Yes,Yes,"Fiber optic",Yes,No,"No internet service","No internet service",No,"No internet service","One year",Yes,"Bank transfer",89.86,4128.11,Yes,Clean
+CUST-7928,Female,No,No,No,8,Yes,Yes,"Fiber optic","No internet service",No,No,Yes,Yes,Yes,Month-to-month,Yes,"Electronic check",87.63,693.47,Yes,Clean
+CUST-7929,Male,No,Yes,Yes,66,Yes,"No phone service","Fiber optic","No internet service","No internet service",No,No,Yes,Yes,Month-to-month,Yes,"Electronic check",82.88,5477.68,No,Clean
+CUST-7930,Female,No,Yes,Yes,18,No,"No phone service","Fiber optic",No,Yes,No,"No internet service",No,Yes,Month-to-month,No,"Credit card",72.37,1309.29,No,Clean
+CUST-7931,Male,No,Yes,Unknown,12,Yes,Yes,"Fiber optic",No,No,"No internet service",No,"No internet service",No,Month-to-month,Yes,"Bank transfer",67.99,814.98,No,Clean
+CUST-7932,Female,No,No,No,43,Yes,Yes,"Fiber optic",No,No,"No internet service",Yes,No,"No internet service","Two year",No,"Electronic check",81.68,3506.12,No,Clean
+CUST-7933,Female,No,No,Yes,2,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",29.65,53.15,No,Clean
+CUST-7934,Female,No,No,Yes,43,Yes,No,"Fiber optic","No internet service",Yes,"No internet service",No,No,"No internet service",Month-to-month,Yes,"Credit card",72.10,3102.89,No,Clean
+CUST-7935,Male,No,No,Yes,44,Yes,No,DSL,"No internet service","No internet service",Yes,"No internet service",Yes,No,"Two year",Yes,"Credit card",53.04,2327.76,No,Clean
+CUST-7936,Male,No,No,Yes,22,Yes,Yes,DSL,Yes,"No internet service","No internet service",Yes,No,No,Month-to-month,No,"Electronic check",60.38,1321.95,No,Clean
+CUST-7937,Male,No,Yes,No,70,Yes,Yes,DSL,No,"No internet service",No,Yes,"No internet service","No internet service","One year",No,"Mailed check",66.57,4664.50,No,Clean
+CUST-7938,Male,No,Yes,No,45,Yes,Yes,"Fiber optic","No internet service","No internet service",No,No,"No internet service",Yes,Month-to-month,No,"Electronic check",82.85,3721.32,Yes,Clean
+CUST-7939,Male,No,Yes,No,2,Yes,"No phone service",DSL,Yes,"No internet service","No internet service",Yes,No,Yes,"One year",No,"Credit card",76.41,145.08,No,Clean
+CUST-7940,Female,No,Yes,Yes,4,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",30.46,131.49,No,Clean
+CUST-7941,Male,No,No,No,2,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",20.00,38.84,Yes,Clean
+CUST-7942,Male,No,Yes,Yes,26,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Mailed check",25.77,666.84,No,Clean
+CUST-7943,Male,No,Yes,Yes,15,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",20.00,303.41,No,Clean
+CUST-7944,Female,No,No,Yes,36,Yes,No,"Fiber optic","No internet service",No,No,"No internet service",No,No,Month-to-month,No,"Bank transfer",80.03,2882.54,Yes,"Duplicate ID - Conflicting Values"
+CUST-7945,Male,No,No,No,30,Yes,Yes,"Fiber optic",Yes,"No internet service","No internet service",Yes,"No internet service",Yes,Month-to-month,No,"Credit card",88.34,2649.44,No,Clean
+CUST-7946,Female,No,Yes,Yes,20,Yes,Yes,"Fiber optic","No internet service",No,Yes,Yes,No,No,"Two year",No,"Mailed check",87.41,1746.02,No,Clean
+CUST-7947,Male,No,Yes,No,21,No,"No phone service","Fiber optic",Yes,Yes,Yes,"No internet service",Yes,No,"Two year",No,"Mailed check",97.77,2043.63,Yes,Clean
+CUST-7948,Female,No,No,No,58,Yes,No,DSL,"No internet service",No,No,Yes,No,"No internet service",Month-to-month,Yes,"Bank transfer",57.27,3323.28,No,Clean
+CUST-7949,Female,No,No,Yes,51,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Mailed check",32.98,1675.30,No,Clean
+CUST-7950,Female,No,No,No,66,Yes,Yes,"Fiber optic","No internet service","No internet service",No,"No internet service",No,"No internet service","Two year",No,"Credit card",62.15,4106.97,No,Clean
+CUST-7951,Male,No,No,No,4,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",Yes,"Credit card",30.01,118.36,No,Clean
+CUST-7952,Male,Yes,Yes,Yes,16,Yes,"No phone service",DSL,"No internet service","No internet service","No internet service","No internet service","No internet service",Yes,Month-to-month,Yes,"Bank transfer",64.86,1033.23,No,Clean
+CUST-7953,Female,No,No,Yes,12,Yes,Yes,DSL,"No internet service",Yes,Yes,"No internet service",No,Yes,"Two year",No,"Electronic check",82.11,987.94,Yes,Clean
+CUST-7954,Male,No,No,No,0,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Electronic check",26.45,0.00,Yes,Clean
+CUST-7955,Female,No,Yes,Yes,6,Yes,"No phone service","Fiber optic",Yes,No,"No internet service","No internet service",Yes,Yes,"Two year",Yes,"Bank transfer",90.29,551.02,Yes,Clean
+CUST-7956,Male,No,Yes,No,25,Yes,Yes,DSL,"No internet service","No internet service",Yes,No,No,Yes,"One year",No,"Electronic check",65.40,1643.55,No,Clean
+CUST-7957,Female,No,Yes,Yes,45,Yes,No,"Fiber optic",No,Yes,No,Yes,"No internet service",No,Month-to-month,Yes,"Credit card",90.95,4098.00,Yes,Clean
+CUST-7958,Male,No,No,Yes,58,Yes,No,DSL,No,Yes,No,No,No,"No internet service",Month-to-month,No,"Bank transfer",48.51,2817.74,Yes,Clean
+CUST-7959,Male,Yes,Yes,No,33,No,"No phone service",DSL,Yes,Yes,"No internet service",Yes,Yes,No,"Two year",Yes,"Credit card",67.53,2235.39,No,Clean
+CUST-7960,Female,No,Yes,Yes,45,Yes,No,DSL,Yes,"No internet service","No internet service",No,Yes,Yes,Month-to-month,Yes,"Credit card",64.93,2919.32,No,Clean
+CUST-7961,Female,No,Yes,Yes,63,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Bank transfer",33.17,2084.46,No,Clean
+CUST-7962,Male,No,Yes,Yes,2,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","One year",No,"Credit card",29.31,50.98,No,Clean
+CUST-7963,Female,Yes,No,No,18,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",34.52,627.84,No,Clean
+CUST-7964,Male,No,Yes,No,1,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",20.00,26.20,Yes,Clean
+CUST-7965,Male,No,Yes,Yes,61,No,"No phone service","Fiber optic",Yes,Yes,No,No,"No internet service","No internet service","Two year",No,"Mailed check",68.62,4186.89,Yes,Clean
+CUST-7966,Male,No,No,No,31,Yes,"No phone service",DSL,"No internet service",No,No,"No internet service","No internet service",No,"Two year",No,"Electronic check",48.81,1503.73,No,Clean
+CUST-7967,Female,No,No,Yes,56,Yes,"No phone service",DSL,No,No,"No internet service",No,Yes,"No internet service",Month-to-month,Yes,"Mailed check",59.75,3340.73,No,Clean
+CUST-7968,Female,No,Yes,Yes,60,Yes,No,"Fiber optic",No,"No internet service",Yes,"No internet service",No,"No internet service",Month-to-month,No,"Bank transfer",71.13,4264.87,Yes,Clean
+CUST-7969,Female,No,Yes,No,59,Yes,"No phone service",DSL,Yes,No,"No internet service","No internet service",Yes,"No internet service",Month-to-month,Yes,"Bank transfer",60.20,3544.07,Yes,Clean
+CUST-7970,Male,No,Yes,Yes,38,Yes,Yes,"Fiber optic",No,No,No,"No internet service",Yes,No,"One year",No,"Mailed check",79.31,3022.79,No,Clean
+CUST-7971,Male,No,No,No,56,Yes,"No phone service","Fiber optic",Yes,No,"No internet service","No internet service",Yes,Yes,Month-to-month,Yes,"Electronic check",93.95,5265.90,Yes,Clean
+CUST-7972,Female,No,Yes,No,52,Yes,Yes,"Fiber optic",No,No,No,No,No,No,"Two year",No,"Mailed check",80.51,4185.49,No,Clean
+CUST-7973,Female,Yes,No,No,66,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",26.34,1732.91,No,Clean
+CUST-7974,Male,No,Yes,No,51,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Credit card",20.00,1021.13,No,Clean
+CUST-7975,Male,No,No,No,45,Yes,Yes,"Fiber optic",Yes,No,Yes,Yes,No,Yes,"Two year",Yes,"Credit card",89.94,4054.20,No,Clean
+CUST-7976,Female,No,Yes,No,58,Yes,Yes,"Fiber optic",Yes,No,No,Yes,Yes,No,Month-to-month,No,Unknown,88.01,5104.51,Yes,Clean
+CUST-7977,Male,No,Yes,No,10,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service","Two year",Yes,"Bank transfer",27.44,283.23,No,Clean
+CUST-7978,Female,No,No,No,43,Yes,Yes,"Fiber optic",No,"No internet service","No internet service",No,"No internet service",No,Month-to-month,No,"Credit card",70.83,3043.55,No,Clean
+CUST-7979,Male,No,No,Yes,5,Yes,"No phone service",DSL,No,"No internet service","No internet service",Yes,No,No,Month-to-month,Yes,"Bank transfer",48.65,235.52,Yes,Clean
+CUST-7980,Male,No,Yes,Yes,60,No,"No phone service",DSL,No,No,"No internet service","No internet service",No,Yes,Month-to-month,Yes,"Mailed check",53.92,3227.86,No,Clean
+CUST-7981,Female,No,Yes,No,62,Yes,Yes,"Fiber optic",Yes,Yes,"No internet service",No,Yes,Yes,Month-to-month,Yes,"Bank transfer",93.31,5777.60,Yes,Clean
+CUST-7982,Male,No,Yes,Yes,41,Yes,Yes,DSL,Yes,No,"No internet service",No,No,No,Month-to-month,Yes,"Credit card",62.20,2543.51,Yes,Clean
+CUST-7983,Female,No,No,Yes,41,Yes,No,DSL,Yes,Yes,"No internet service",No,Yes,Yes,"Two year",Yes,"Bank transfer",82.80,3392.95,No,Clean
+CUST-7984,Female,No,No,No,61,Yes,"No phone service","Fiber optic",Yes,No,Yes,No,No,No,Month-to-month,No,"Mailed check",78.33,4778.87,Yes,Clean
+CUST-7985,Male,No,Yes,No,59,Yes,Yes,"Fiber optic","No internet service",Yes,Yes,No,No,"No internet service","One year",Yes,"Mailed check",87.72,5179.87,No,Clean
+CUST-7986,Male,No,No,Yes,9,Yes,Yes,DSL,"No internet service",No,"No internet service",No,No,No,Month-to-month,Yes,"Bank transfer",40.56,368.22,Yes,Clean
+CUST-7987,Female,No,No,Yes,19,Yes,"No phone service","Fiber optic",No,Yes,"No internet service","No internet service",No,"No internet service",Month-to-month,Yes,"Mailed check",70.46,1345.39,Yes,Clean
+CUST-7988,Male,No,Yes,Yes,11,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Credit card",31.05,348.63,No,Clean
+CUST-7989,Female,No,Yes,No,63,Yes,"No phone service","Fiber optic","No internet service",Yes,"No internet service",No,"No internet service",No,Month-to-month,No,"Bank transfer",67.75,4273.10,No,Clean
+CUST-7990,Male,No,Yes,No,65,Yes,No,DSL,"No internet service",No,Yes,No,Yes,No,Month-to-month,Yes,"Mailed check",55.24,3596.64,Yes,Clean
+CUST-7991,Female,No,No,Yes,0,Yes,"No phone service",DSL,"No internet service","No internet service",No,No,"No internet service",No,Month-to-month,No,"Electronic check",59.42,4.53,Yes,Clean
+CUST-7992,Male,No,No,Yes,65,Yes,No,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",34.39,2239.01,No,Clean
+CUST-7993,Female,No,Yes,Yes,61,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Bank transfer",34.91,2124.54,No,Clean
+CUST-7994,Male,No,Yes,Yes,10,Yes,No,"Fiber optic","No internet service",Yes,Yes,No,"No internet service",No,Month-to-month,Yes,"Electronic check",86.56,871.46,Yes,Clean
+CUST-7995,Male,No,No,No,6,Yes,Yes,DSL,Yes,Yes,Yes,No,"No internet service",Yes,Month-to-month,Yes,"Mailed check",69.30,415.80,Yes,Clean
+CUST-7996,Male,No,No,No,62,No,"No phone service",DSL,Yes,"No internet service",No,No,No,No,Month-to-month,Yes,"Bank transfer",52.33,3237.00,No,Clean
+CUST-7997,Female,No,Yes,No,4,Yes,No,"Fiber optic","No internet service",Yes,"No internet service",Yes,Yes,Yes,"Two year",Yes,"Credit card",103.46,420.67,No,Clean
+CUST-7998,Male,Yes,No,Yes,8,Yes,No,"Fiber optic",No,No,Yes,Yes,"No internet service",Yes,"Two year",Yes,"Bank transfer",77.00,618.59,No,Clean
+CUST-7999,Male,No,No,No,46,Yes,"No phone service",DSL,"No internet service","No internet service",Yes,"No internet service","No internet service","No internet service","Two year",No,"Bank transfer",48.06,2219.42,No,Clean
+CUST-8000,Male,No,No,No,17,Yes,"No phone service",DSL,Yes,Yes,No,Yes,Yes,Yes,"One year",No,"Bank transfer",75.49,1283.01,No,Clean
+CUST-8001,Male,No,No,No,7,Yes,Yes,"Fiber optic","No internet service",Yes,No,Yes,Yes,Yes,"Two year",No,Unknown,102.22,706.06,No,Clean
+CUST-8002,Female,No,Yes,No,50,Yes,No,"Fiber optic","No internet service",Yes,Yes,"No internet service","No internet service",No,Month-to-month,No,"Bank transfer",76.19,3815.59,No,Clean
+CUST-8003,Female,No,No,Yes,29,Yes,Yes,"Fiber optic",No,No,No,Yes,Yes,No,"Two year",No,"Electronic check",97.15,2815.69,No,Clean
+CUST-8004,Male,No,No,Yes,45,Yes,No,"Fiber optic",Yes,"No internet service",No,Yes,Yes,No,Month-to-month,No,"Bank transfer",99.64,4476.78,No,Clean
+CUST-8005,Female,No,No,No,10,No,"No phone service",DSL,No,Yes,"No internet service",Yes,Yes,No,"One year",Yes,"Bank transfer",58.07,572.46,Yes,Clean
+CUST-8006,Female,No,No,No,25,Yes,Yes,No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Electronic check",25.85,655.75,Yes,Clean
+CUST-8007,Male,No,Yes,No,22,Yes,No,"Fiber optic","No internet service","No internet service","No internet service",Yes,Yes,No,"Two year",Yes,"Mailed check",82.34,1813.17,Yes,Clean
+CUST-8008,Female,No,Yes,Yes,43,Yes,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,No,"Mailed check",30.32,1306.29,No,Clean
+CUST-8009,Female,Yes,Yes,No,61,Yes,No,DSL,No,No,Yes,Yes,"No internet service","No internet service","Two year",No,"Bank transfer",63.29,3862.34,No,Clean
+CUST-8010,Female,No,Yes,Yes,43,No,"No phone service",No,"No internet service","No internet service","No internet service","No internet service","No internet service","No internet service",Month-to-month,Yes,"Mailed check",20.00,868.40,Yes,Clean
+CUST-8011,Male,No,Yes,Yes,17,Yes,No,"Fiber optic",No,No,No,Yes,Yes,"No internet service","One year",Yes,"Electronic check",74.82,1267.57,No,Clean
